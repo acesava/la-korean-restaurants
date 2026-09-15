@@ -1,0 +1,6 @@
+[out:json][timeout:120];
+(
+  nwr["amenity"~"^(restaurant|fast_food|cafe|food_court)$"]["cuisine"~"korean",i](33.70,-118.95,34.82,-117.64);
+  nwr["amenity"~"^(restaurant|fast_food)$"]["name"~"korea|seoul|kbbq|gogi|galbi|kalbi|bulgogi|soondubu|sundubu|jjigae|pocha|bibimbap",i](33.70,-118.95,34.82,-117.64);
+);
+out center tags;

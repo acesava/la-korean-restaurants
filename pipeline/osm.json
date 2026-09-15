@@ -1,0 +1,5575 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-15T05:24:49Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 319781742,
+  "lat": 34.1039485,
+  "lon": -118.0741043,
+  "tags": {
+    "addr:city": "Temple City",
+    "addr:housenumber": "5709",
+    "addr:postcode": "91780",
+    "addr:state": "CA",
+    "addr:street": "Rosemead Boulevard",
+    "amenity": "restaurant",
+    "brand": "bb.q Chicken",
+    "brand:wikidata": "Q87716489",
+    "check_date": "2026-03-15",
+    "contact:yelp": "https://www.yelp.com/biz/bb-q-chicken-temple-city-temple-city-9",
+    "cuisine": "korean;chicken",
+    "level": "0",
+    "name": "bb.q Chicken",
+    "opening_hours": "Mo-Th,Su 11:00-22:00; Fr-Sa 11:00-22:30",
+    "phone": "+1 626-872-2700"
+  }
+},
+{
+  "type": "node",
+  "id": 408540804,
+  "lat": 34.0619072,
+  "lon": -118.3096159,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Tofu Village",
+    "name:ko": "두부 마을"
+  }
+},
+{
+  "type": "node",
+  "id": 1435041904,
+  "lat": 34.0498115,
+  "lon": -118.2421800,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "123",
+    "addr:postcode": "90012",
+    "addr:state": "CA",
+    "addr:street": "Astronaut Ellison S Onizuka Street",
+    "addr:unit": "302",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "level": "2",
+    "name": "Korean BBQ House",
+    "opening_hours": "Mo-Fr 10:00-21:00; Sa-Su 11:00-21:00",
+    "phone": "+1-213-680-1826",
+    "website": "https://www.koreabbqhouse.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1435041912,
+  "lat": 34.0498104,
+  "lon": -118.2398257,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "337",
+    "addr:postcode": "90012",
+    "addr:state": "CA",
+    "addr:street": "East 1st Street",
+    "amenity": "restaurant",
+    "check_date": "2026-04-06",
+    "check_date:opening_hours": "2026-04-06",
+    "contact:yelp": "https://www.yelp.com/biz/jincook-los-angeles-2",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "JinCook",
+    "opening_hours": "Su-Th 11:30-22:30; Fr-Sa 11:30-00:00",
+    "outdoor_seating": "no",
+    "phone": "+1 213-577-1128",
+    "self_service": "no",
+    "was:name": "Suehiro Cafe",
+    "website": "https://www.jincooks.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2165018839,
+  "lat": 34.0638419,
+  "lon": -118.3008469,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3611",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:yelp": "https://www.yelp.com/biz/mapo-kkak-doo-gee-restaurant-los-angeles",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Mapo Kkak Door Gee"
+  }
+},
+{
+  "type": "node",
+  "id": 2165018868,
+  "lat": 34.0637835,
+  "lon": -118.3008461,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3613",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "addr:unit": "B",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:yelp": "https://www.yelp.com/biz/namsan-los-angeles",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Namsan"
+  }
+},
+{
+  "type": "node",
+  "id": 2165018872,
+  "lat": 34.0638302,
+  "lon": -118.3064352,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3833",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "fast_food",
+    "branch": "Los Angeles",
+    "check_date": "2026-06-21",
+    "contact:instagram": "https://www.instagram.com/kyochonus",
+    "contact:yelp": "https://www.yelp.com/biz/kyochon-chicken-los-angeles-15",
+    "cuisine": "korean;chicken",
+    "drive_through": "no",
+    "level": "0",
+    "name": "Kyochon Chicken",
+    "phone": "+1 213-739-9292",
+    "website": "https://www.kyochonus.com/",
+    "website:menu": "https://www.kyochonus.com/menu"
+  }
+},
+{
+  "type": "node",
+  "id": 2165018886,
+  "lat": 34.0639835,
+  "lon": -118.3005773,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3601",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:yelp": "https://www.yelp.com/biz/chuncheon-dakgalbi-donghae-makguksu-2-los-angeles",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Chuncheon Dakgalbi Donghae Makguksu 2",
+    "was:name": "Yang San Bak"
+  }
+},
+{
+  "type": "node",
+  "id": 2168231371,
+  "lat": 34.0575821,
+  "lon": -118.2959098,
+  "tags": {
+    "addr:housenumber": "3136",
+    "addr:street": "8th Street",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Soot Bull Jeep"
+  }
+},
+{
+  "type": "node",
+  "id": 2678224143,
+  "lat": 34.0530320,
+  "lon": -118.2925263,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "2717",
+    "addr:postcode": "90006",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "addr:unit": "108",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "check_date": "2026-06-14",
+    "contact:yelp": "https://www.yelp.com/biz/sytk-sullungtang-los-angeles-3",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "SYTK Sullungtang",
+    "was:name": "Beverly Soon Tofu"
+  }
+},
+{
+  "type": "node",
+  "id": 2697735091,
+  "lat": 34.0748264,
+  "lon": -118.3095560,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "korean",
+    "name": "Korean B.B.Q. Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 2698601372,
+  "lat": 34.0734421,
+  "lon": -118.3087933,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "100",
+    "addr:postcode": "90004",
+    "addr:street": "South Western Avenue",
+    "amenity": "restaurant",
+    "capacity": "250",
+    "cuisine": "korean;barbecue",
+    "name": "Dream Mong Korean BBQ",
+    "opening_hours": "11:00-15:00,17:00-22:00",
+    "phone": "+1-213-388-7668"
+  }
+},
+{
+  "type": "node",
+  "id": 2919552236,
+  "lat": 34.0928403,
+  "lon": -118.1313903,
+  "tags": {
+    "addr:city": "Alhambra",
+    "addr:housenumber": "410",
+    "addr:postcode": "91801",
+    "addr:state": "CA",
+    "addr:street": "West Main Street",
+    "addr:unit": "110",
+    "amenity": "restaurant",
+    "check_date": "2026-07-10",
+    "contact:yelp": "https://www.yelp.com/biz/the-dae-mun-alhambra",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "The Dae-Mun",
+    "opening_hours": "Mo-Th,Su 11:30-21:30; Fr-Sa 11:30-22:00",
+    "outdoor_seating": "no",
+    "phone": "+1 626-872-0017",
+    "takeaway": "yes",
+    "was:name": "Al's Italian Beef",
+    "website": "https://thedaemun.com/",
+    "website:menu": "https://thedaemun.com/menu"
+  }
+},
+{
+  "type": "node",
+  "id": 3243783312,
+  "lat": 34.0623944,
+  "lon": -118.3412992,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "5115",
+    "addr:postcode": "90036",
+    "addr:state": "CA",
+    "addr:street": "Wilshire Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Genwa Korean BBQ",
+    "opening_hours": "Mo-Fr 11:00-22:00; Sa,Su 12:00-22:00",
+    "phone": "+1-323-549-0760",
+    "smoking": "no",
+    "website": "https://locu.com/places/genwa-los-angeles-us/"
+  }
+},
+{
+  "type": "node",
+  "id": 3275266993,
+  "lat": 33.7869029,
+  "lon": -117.9581017,
+  "tags": {
+    "addr:city": "Garden Grove",
+    "addr:housenumber": "12118",
+    "addr:postcode": "92840",
+    "addr:state": "CA",
+    "addr:street": "Brookhurst Street",
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "name": "Korea House B.B.Q Buffet",
+    "opening_hours": "11:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3477026544,
+  "lat": 34.0978401,
+  "lon": -118.0737195,
+  "tags": {
+    "addr:city": "San Gabriel",
+    "addr:housenumber": "5405",
+    "addr:postcode": "91776",
+    "addr:state": "CA",
+    "addr:street": "Rosemead Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2025-10-12",
+    "contact:yelp": "https://www.yelp.com/biz/oo-kook-korean-bbq-san-gabriel-san-gabriel-2",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Oo-Kook Korean BBQ",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-626-286-8837"
+  }
+},
+{
+  "type": "node",
+  "id": 3625939864,
+  "lat": 33.9744385,
+  "lon": -117.8379265,
+  "tags": {
+    "addr:city": "Diamond Bar",
+    "addr:housenumber": "2841",
+    "addr:state": "CA",
+    "addr:street": "Diamond Bar Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2024-03-15",
+    "cuisine": "korean",
+    "name": "Tong Tong Tang"
+  }
+},
+{
+  "type": "node",
+  "id": 3727951070,
+  "lat": 34.2374106,
+  "lon": -118.2606176,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Moon Korean BBQ"
+  }
+},
+{
+  "type": "node",
+  "id": 3730688691,
+  "lat": 34.2161887,
+  "lon": -118.2241409,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Korean BBQ"
+  }
+},
+{
+  "type": "node",
+  "id": 3733499178,
+  "lat": 34.2224258,
+  "lon": -118.2491363,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Pho-Pho Korean Cousine"
+  }
+},
+{
+  "type": "node",
+  "id": 3795734832,
+  "lat": 34.0528240,
+  "lon": -118.3059518,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3185",
+    "addr:postcode": "90006",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-06-13",
+    "contact:yelp": "https://www.yelp.com/biz/yuchun-los-angeles-5",
+    "cuisine": "korean",
+    "name": "Yu Chun"
+  }
+},
+{
+  "type": "node",
+  "id": 3795772626,
+  "lat": 34.0527874,
+  "lon": -118.2956264,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "2833",
+    "addr:postcode": "90006",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-06-14",
+    "contact:instagram": "https://www.instagram.com/surawontofu/",
+    "contact:yelp": "https://www.yelp.com/biz/surawon-tofu-house-los-angeles-2",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Surawon",
+    "name:en": "Surawon Tofu House",
+    "opening_hours": "Su-Th 10:00-22:00; Fr-Sa 10:00-23:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-213-383-7317"
+  }
+},
+{
+  "type": "node",
+  "id": 3795798036,
+  "lat": 34.0528890,
+  "lon": -118.3003762,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3003",
+    "addr:postcode": "90006",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "addr:unit": "107",
+    "amenity": "restaurant",
+    "check_date": "2026-06-14",
+    "contact:yelp": "https://www.yelp.com/biz/gam-ja-gol-los-angeles",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Gam Ja Gol"
+  }
+},
+{
+  "type": "node",
+  "id": 3797634879,
+  "lat": 34.0529650,
+  "lon": -118.2939697,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "2773",
+    "addr:postcode": "90006",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-06-14",
+    "contact:yelp": "https://www.yelp.com/biz/jang-an-restaurant-los-angeles",
+    "cuisine": "korean",
+    "name": "Jang An Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 3843980264,
+  "lat": 34.1813179,
+  "lon": -118.8776444,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean"
+  }
+},
+{
+  "type": "node",
+  "id": 3887241836,
+  "lat": 33.8783284,
+  "lon": -117.9633539,
+  "tags": {
+    "addr:city": "Fullerton",
+    "addr:housenumber": "1937",
+    "addr:postcode": "92835",
+    "addr:state": "CA",
+    "addr:street": "West Malvern Avenue",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Tang"
+  }
+},
+{
+  "type": "node",
+  "id": 4089020401,
+  "lat": 34.1175078,
+  "lon": -118.1858550,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "6101",
+    "addr:postcode": "90042",
+    "addr:state": "CA",
+    "addr:street": "York Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "name": "Pocha"
+  }
+},
+{
+  "type": "node",
+  "id": 4154763919,
+  "lat": 34.1686495,
+  "lon": -118.6034110,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Corner Grille Korean Fusion"
+  }
+},
+{
+  "type": "node",
+  "id": 4356305291,
+  "lat": 33.7609158,
+  "lon": -117.8384505,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Ondo"
+  }
+},
+{
+  "type": "node",
+  "id": 4864275133,
+  "lat": 34.2055359,
+  "lon": -118.2218712,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "korean",
+    "name": "Chi Dang Tofu & BBQ"
+  }
+},
+{
+  "type": "node",
+  "id": 4917827021,
+  "lat": 34.0629804,
+  "lon": -118.2974791,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3470",
+    "addr:postcode": "90005",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "addr:unit": "7",
+    "amenity": "restaurant",
+    "branch": "Alexandria Plaza",
+    "check_date": "2026-06-27",
+    "contact:yelp": "https://www.yelp.com/biz/sun-nong-dan-los-angeles-4",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Sun Nong Dan",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-213-365-0303",
+    "website": "https://sunnongdanusa.com/",
+    "website:menu": "https://sunnongdanusa.com/menu-with-tabs/"
+  }
+},
+{
+  "type": "node",
+  "id": 4946398335,
+  "lat": 34.0490768,
+  "lon": -118.2405573,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:floor": "1",
+    "addr:housenumber": "135",
+    "addr:postcode": "90012",
+    "addr:state": "CA",
+    "addr:street": "Japanese Village Plaza Mall",
+    "amenity": "restaurant",
+    "check_date": "2025-12-25",
+    "contact:yelp": "https://www.yelp.com/biz/korean-kitchen-hibachi-barbeque-los-angeles",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Korean Kitchen Hibachi BBQ"
+  }
+},
+{
+  "type": "node",
+  "id": 4975093921,
+  "lat": 33.9984203,
+  "lon": -117.8452674,
+  "tags": {
+    "addr:housenumber": "21050",
+    "addr:postcode": "91789",
+    "addr:street": "Golden Springs Drive",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "IL Poom",
+    "phone": "+1-909-869-0011"
+  }
+},
+{
+  "type": "node",
+  "id": 5002236055,
+  "lat": 33.7348934,
+  "lon": -117.8125933,
+  "tags": {
+    "addr:city": "Tustin",
+    "addr:housenumber": "13828",
+    "addr:postcode": "92780",
+    "addr:street": "Red Hill Avenue",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Seoul Garden BBQ Buffet"
+  }
+},
+{
+  "type": "node",
+  "id": 5084829721,
+  "lat": 34.0638458,
+  "lon": -118.3060005,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3821",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "check_date": "2026-06-21",
+    "contact:instagram": "https://www.instagram.com/haejangchon/",
+    "contact:yelp": "https://www.yelp.com/biz/hae-jang-chon-los-angeles-2",
+    "cuisine": "korean;barbecue",
+    "level": "0",
+    "name": "Hae Jang Chon",
+    "opening_hours": "Mo,We-Th,Su 11:00-24:00; Tu off; Fr-Sa 11:00-02:00",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-213-389-8777",
+    "reservation": "yes",
+    "website": "https://www.haejangchon.com/",
+    "website:menu": "https://www.haejangchon.com/menu"
+  }
+},
+{
+  "type": "node",
+  "id": 5111896425,
+  "lat": 34.0615231,
+  "lon": -118.3032546,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3600",
+    "addr:postcode": "90010",
+    "addr:state": "CA",
+    "addr:street": "Wilshire Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Bulgogi Hut",
+    "opening_hours": "Su-Th 11:00-22:00; Fr,Sa 11:00-24:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-213-388-1988",
+    "takeaway": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5111900623,
+  "lat": 34.0614752,
+  "lon": -118.3000042,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3456",
+    "addr:postcode": "90010",
+    "addr:state": "CA",
+    "addr:street": "Wilshire Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-06-27",
+    "contact:yelp": "https://www.yelp.com/biz/gogobop-korean-rice-bar-los-angeles",
+    "cuisine": "korean",
+    "email": "catering@gogobop.com",
+    "level": "0",
+    "name": "Gogobop Korean Rice Bar",
+    "opening_hours": "Mo-Fr 11:00-20:00; Sa 11:00-15:00; Su off",
+    "phone": "+1-213-385-1089",
+    "website": "https://www.gogobop.com/location/gogobop-koreatown/"
+  }
+},
+{
+  "type": "node",
+  "id": 5112088125,
+  "lat": 34.0614736,
+  "lon": -118.2994500,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3446",
+    "addr:postcode": "90010",
+    "addr:state": "CA",
+    "addr:street": "Wilshire Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-06-26",
+    "contact:yelp": "https://www.yelp.com/biz/jjamppong-zizon-los-angeles-6",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Jjamppong Zizon",
+    "was:name": "Mali Taste of Thailand"
+  }
+},
+{
+  "type": "node",
+  "id": 5112103522,
+  "lat": 34.0622518,
+  "lon": -118.2977677,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3377",
+    "addr:postcode": "90010",
+    "addr:state": "CA",
+    "addr:street": "Wilshire Boulevard",
+    "addr:unit": "105",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:yelp": "https://www.yelp.com/biz/jjukku-jjukku-bbq-los-angeles-3",
+    "cuisine": "korean",
+    "name": "Jjukku Jjukku Korean BBQ",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "toilets": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5185164674,
+  "lat": 34.0614301,
+  "lon": -118.4464330,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "1059",
+    "addr:postcode": "90024",
+    "addr:state": "CA",
+    "addr:street": "Broxton Avenue",
+    "amenity": "fast_food",
+    "branch": "Westwood Village",
+    "check_date": "2026-03-23",
+    "contact:yelp": "https://www.yelp.com/biz/gogobop-korean-rice-bar-los-angeles-2",
+    "cuisine": "korean",
+    "drive_through": "no",
+    "email": "catering@gogobop.com",
+    "level": "0",
+    "name": "Gogobop",
+    "opening_hours": "Mo-Fr 11:00-22:00; Sa 11:00-21:00; Su off",
+    "phone": "+1 310-208-0820",
+    "website": "https://www.gogobop.com/location/gogobop-westwood-village/"
+  }
+},
+{
+  "type": "node",
+  "id": 5248240247,
+  "lat": 34.0945930,
+  "lon": -118.1276928,
+  "tags": {
+    "addr:city": "Alhambra",
+    "addr:housenumber": "68",
+    "addr:postcode": "91801",
+    "addr:state": "CA",
+    "addr:street": "West Main Street",
+    "amenity": "restaurant",
+    "brand": "Gen Korean BBQ",
+    "brand:wikidata": "Q124294849",
+    "check_date": "2025-12-30",
+    "contact:facebook": "https://www.facebook.com/thegenkoreanbbqhouse/",
+    "contact:linkedin": "https://www.linkedin.com/company/gen-korean-bbq-house",
+    "contact:phone": "+1-626-407-2858",
+    "contact:website": "https://www.genkoreanbbq.com/alhambraca",
+    "contact:yelp": "https://www.yelp.com/biz/gen-korean-bbq-house-alhambra",
+    "cuisine": "korean;barbecue",
+    "level": "0;1",
+    "name": "Gen Korean BBQ",
+    "opening_hours": "Mo-Th 11:00-10:30; Fr 11:00-23:30; Sa 10:00-23:30; Su 10:00-22:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "source": "http://genkoreanbbq.com/restaurant-locations_new/"
+  }
+},
+{
+  "type": "node",
+  "id": 5405879621,
+  "lat": 34.0640314,
+  "lon": -118.2879790,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Yuk Dae Jang"
+  }
+},
+{
+  "type": "node",
+  "id": 5438991697,
+  "lat": 33.8582012,
+  "lon": -118.0842276,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "BCD Tofu House",
+    "outdoor_seating": "no",
+    "website": "http://bcdtofu.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5444430428,
+  "lat": 34.0474064,
+  "lon": -118.4436500,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "11086",
+    "addr:state": "CA",
+    "addr:street": "Santa Monica Boulevard",
+    "amenity": "restaurant",
+    "branch": "West LA",
+    "check_date": "2026-09-06",
+    "contact:yelp": "https://www.yelp.com/biz/bbq-rice-west-la-los-angeles-10",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "BBQ+Rice",
+    "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-20:30",
+    "website": "https://www.bbqrice.com/west-la",
+    "website:menu": "https://www.bbqrice.com/menu"
+  }
+},
+{
+  "type": "node",
+  "id": 5567727178,
+  "lat": 34.0250482,
+  "lon": -118.2853951,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "929",
+    "addr:postcode": "90007",
+    "addr:state": "CA",
+    "addr:street": "West Jefferson Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "korean;barbecue",
+    "name": "Kobunga Korean Grill",
+    "note": "Cornhole game available outside.",
+    "opening_hours": "Su-Fr 11:00-21:00, Sa 11:00-20:00",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5636357627,
+  "lat": 33.7752213,
+  "lon": -118.1380289,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Seoulmate"
+  }
+},
+{
+  "type": "node",
+  "id": 5673600627,
+  "lat": 33.8038622,
+  "lon": -117.9145936,
+  "tags": {
+    "addr:city": "Anaheim",
+    "addr:housenumber": "1770",
+    "addr:postcode": "92802",
+    "addr:state": "CA",
+    "addr:street": "South Harbor Boulevard",
+    "addr:unit": "132",
+    "amenity": "restaurant",
+    "cuisine": "korean;barbecue",
+    "name": "Seoulicious",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5844703162,
+  "lat": 34.0484800,
+  "lon": -118.3088530,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "1230",
+    "addr:postcode": "90006",
+    "addr:state": "CA",
+    "addr:street": "Western Avenue",
+    "amenity": "restaurant",
+    "cuisine": "korean;barbecue",
+    "description": "Korean BBQ",
+    "name": "Road to Seoul",
+    "opening_hours": "Mo-Th 11:00-24:00, Fr-Sa 11:00-01:00, Su 11:00-24:00",
+    "outdoor_seating": "no",
+    "phone": "+1-323-731-9292"
+  }
+},
+{
+  "type": "node",
+  "id": 5858173888,
+  "lat": 34.0680708,
+  "lon": -118.3089579,
+  "tags": {
+    "addr:housenumber": "338",
+    "addr:street": "South Western Avenue",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Mister Bossam"
+  }
+},
+{
+  "type": "node",
+  "id": 5908767099,
+  "lat": 34.0560267,
+  "lon": -118.3098875,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "863",
+    "addr:postcode": "90006",
+    "addr:state": "CA",
+    "addr:street": "S Western Ave.",
+    "amenity": "restaurant",
+    "cuisine": "korean;barbecue",
+    "email": "info@8colorsfnb.com",
+    "name": "Eight Korean BBQ",
+    "note": "Not AYCE.",
+    "opening_hours": "Mo-Th 11:30-23:00, Fr-Sa 11:30-01:00, Su 11:30-23:00",
+    "outdoor_seating": "no",
+    "phone": "+1-213-365-1750",
+    "website": "https://eightkoreanbbq.com/los-angeles"
+  }
+},
+{
+  "type": "node",
+  "id": 5960142565,
+  "lat": 34.0392519,
+  "lon": -118.4426150,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:floor": "1",
+    "addr:housenumber": "2101",
+    "addr:postcode": "90025",
+    "addr:state": "CA",
+    "addr:street": "Sawtelle Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-09-08",
+    "contact:yelp": "https://www.yelp.com/biz/seoul-house-of-tofu-los-angeles",
+    "cuisine": "korean",
+    "delivery": "no",
+    "level": "0",
+    "name": "Seoul House of Tofu",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+1-310-444-9988",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.seoulhouseoftofu.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6270457158,
+  "lat": 34.4212766,
+  "lon": -118.5466604,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Lees Korean BBQ & Tofu House"
+  }
+},
+{
+  "type": "node",
+  "id": 6300387162,
+  "lat": 34.1466613,
+  "lon": -118.1490910,
+  "tags": {
+    "addr:city": "Pasadena",
+    "addr:housenumber": "45",
+    "addr:postcode": "91103",
+    "addr:state": "CA",
+    "addr:street": "North Raymond Avenue",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Jumak",
+    "opening_hours": "Mo,Su 11:00-15:00,16:30-21:00; Fr-Sa 11:00-15:00,16:30-02:30",
+    "phone": "+1-626-817-9152",
+    "website": "https://www.jumakla.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6335807986,
+  "lat": 34.1039530,
+  "lon": -118.0731035,
+  "tags": {
+    "addr:city": "Temple City",
+    "addr:housenumber": "5700",
+    "addr:postcode": "91780",
+    "addr:state": "CA",
+    "addr:street": "Rosemead Boulevard",
+    "addr:unit": "100",
+    "amenity": "restaurant",
+    "check_date": "2025-10-11",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Kang Ho Dong Baekjeong",
+    "opening_hours": "Mo-Th 11:30-22:00; Fr 11:30-24:00; Sa 11:00-24:00; Su 11:00-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-626-285-9678; +1-213-799-6328",
+    "website": "https://www.baekjeongkbbq.com/",
+    "website:menu": "https://www.baekjeongkbbq.com/our-menu/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6419902986,
+  "lat": 34.0952682,
+  "lon": -118.1271522,
+  "tags": {
+    "addr:city": "Alhambra",
+    "addr:housenumber": "1",
+    "addr:postcode": "91801",
+    "addr:state": "CA",
+    "addr:street": "West Main Street",
+    "amenity": "restaurant",
+    "check_date": "2026-03-28",
+    "contact:yelp": "https://www.yelp.com/biz/road-to-seoul-bbq-alhambra",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Road to Seoul BBQ",
+    "opening_hours": "11:00-02:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-626-872-6460",
+    "website": "https://www.roadtoseoulalhambra.com/",
+    "website:menu": "https://www.roadtoseoulalhambra.com/menu"
+  }
+},
+{
+  "type": "node",
+  "id": 6428906606,
+  "lat": 34.1482026,
+  "lon": -118.2568007,
+  "tags": {
+    "addr:city": "Glendale",
+    "addr:housenumber": "207",
+    "addr:postcode": "91203",
+    "addr:state": "CA",
+    "addr:street": "W Wilson Avenue",
+    "amenity": "restaurant",
+    "cuisine": "japanese;korean;asian",
+    "name": "Teriyaki Me!",
+    "opening_hours": "Mo-Su 11:00-21:00",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6450245111,
+  "lat": 34.0637147,
+  "lon": -118.2959360,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3407",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "addr:unit": "101C",
+    "amenity": "restaurant",
+    "cuisine": "korean;barbecue",
+    "name": "Ham Ji Park",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 16:00-22:00",
+    "outdoor_seating": "no",
+    "phone": "+1-213-365-8773"
+  }
+},
+{
+  "type": "node",
+  "id": 6548318067,
+  "lat": 34.0339918,
+  "lon": -118.2297975,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "712",
+    "addr:postcode": "90021",
+    "addr:state": "CA",
+    "addr:street": "South Santa Fe Avenue",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Yangban Society"
+  }
+},
+{
+  "type": "node",
+  "id": 6597387163,
+  "lat": 34.0014740,
+  "lon": -117.7350203,
+  "tags": {
+    "addr:housenumber": "3233",
+    "addr:street": "Grand Ave",
+    "amenity": "restaurant",
+    "name": "YoungDong Korean BBQ",
+    "phone": "+1 909-613-1888"
+  }
+},
+{
+  "type": "node",
+  "id": 6685169401,
+  "lat": 34.0630978,
+  "lon": -118.2968340,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3450",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "addr:unit": "101",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:yelp": "https://www.yelp.com/biz/ste-101-los-angeles",
+    "cuisine": "korean;barbecue",
+    "name": "STE 101"
+  }
+},
+{
+  "type": "node",
+  "id": 6685169404,
+  "lat": 34.0631647,
+  "lon": -118.2971563,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3450",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "addr:unit": "106",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:instagram": "https://www.instagram.com/chunjuhanilkwan",
+    "contact:yelp": "https://www.yelp.com/biz/chunju-han-il-kwan-los-angeles",
+    "cuisine": "korean",
+    "email": "info@chunju-han.com",
+    "level": "0",
+    "name": "Chunju Han Il Kwan",
+    "opening_hours": "Mo-We 10:00-22:00; Th-Su 10:00-23:00",
+    "phone": "+1-213-480-1799",
+    "website": "https://www.chikkoreanrestaurant.com/",
+    "website:menu": "https://www.chikkoreanrestaurant.com/menu"
+  }
+},
+{
+  "type": "node",
+  "id": 6985556910,
+  "lat": 34.1394944,
+  "lon": -118.0083788,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "korean",
+    "name": "Flame Broiler",
+    "website": "https://flamebroilerusa.com"
+  }
+},
+{
+  "type": "node",
+  "id": 7391473868,
+  "lat": 34.0904994,
+  "lon": -118.3138609,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "BBQ+RICE Korean Rice Bowl"
+  }
+},
+{
+  "type": "node",
+  "id": 7391478710,
+  "lat": 34.0983486,
+  "lon": -118.3503983,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "BBQ+RICE Korean Rice Bowl WeHo"
+  }
+},
+{
+  "type": "node",
+  "id": 7412915860,
+  "lat": 34.0639625,
+  "lon": -118.3006659,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3603",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:yelp": "https://www.yelp.com/biz/yupdduk-la-los-angeles",
+    "cuisine": "korean",
+    "email": "info@almghospitality.com",
+    "level": "0",
+    "name": "Yupdduk LA",
+    "opening_hours": "11:00-21:20",
+    "phone": "+1 213-263-2355",
+    "website": "https://www.almghospitality.com/ydla",
+    "website:menu": "https://www.almghospitality.com/survey"
+  }
+},
+{
+  "type": "node",
+  "id": 7455182286,
+  "lat": 34.1039765,
+  "lon": -118.0875811,
+  "tags": {
+    "addr:city": "San Gabriel",
+    "addr:housenumber": "927",
+    "addr:postcode": "91776",
+    "addr:state": "CA",
+    "addr:street": "East Las Tunas Drive",
+    "addr:unit": "E&F",
+    "amenity": "restaurant",
+    "check_date": "2026-03-24",
+    "contact:facebook": "https://www.facebook.com/YoungDongTofu/",
+    "contact:instagram": "https://www.instagram.com/yd_tofu/",
+    "contact:yelp": "https://www.yelp.com/biz/young-dong-tofu-house-san-gabriel-2",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Young Dong Tofu House",
+    "opening_hours": "Mo-Th,Su 11:00-22:00; Fr-Sa 11:00-23:00",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-626-286-6031",
+    "website": "https://www.otofuhouseyd.com/",
+    "website:menu": "https://www.otofuhouseyd.com/_files/ugd/8b8c8d_3018ec7f04254928ad056a3bd96d1619.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 7464899698,
+  "lat": 34.1018235,
+  "lon": -118.1104060,
+  "tags": {
+    "addr:housenumber": "710",
+    "addr:street": "West Las Tunas Drive",
+    "addr:unit": "C2-C4",
+    "amenity": "restaurant",
+    "brand": "Bonchon Chicken",
+    "brand:wikidata": "Q4941248",
+    "check_date": "2026-06-28",
+    "contact:facebook": "https://www.facebook.com/BonchonChicken/",
+    "contact:instagram": "https://www.instagram.com/bonchonchicken/",
+    "contact:linkedin": "https://www.linkedin.com/company/bonchon",
+    "contact:twitter": "https://twitter.com/bonchonchicken",
+    "contact:yelp": "https://www.yelp.com/biz/bonchon-san-gabriel-8",
+    "cuisine": "chicken;korean;sushi",
+    "level": "0",
+    "name": "Bonchon Chicken",
+    "opening_hours": "Mo-Th 11:00-22:00; Fr-Sa 11:00-24:00; Su 11:00-21:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-626-545-2380",
+    "website": "https://www.bonchon.com/locations/ll/us/ca/san-gabriel/710-w-las-tunas-dr"
+  }
+},
+{
+  "type": "node",
+  "id": 7590867585,
+  "lat": 34.0628745,
+  "lon": -118.2976027,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:floor": "1",
+    "addr:housenumber": "3470",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "addr:unit": "9-10",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:facebook": "https://www.facebook.com/checkoutmynoods/",
+    "contact:instagram": "https://www.instagram.com/hangarikalguksu/",
+    "contact:yelp": "https://www.yelp.com/biz/hangari-kalguksu-los-angeles-4",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Hangari Kalguksu",
+    "name:ko": "항아리 칼국수",
+    "opening_hours": "Mo,We,Su 10:00-21:00; Tu off; Th 10:00-22:00; Fr-Sa 10:00-22:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-213-388-2326",
+    "reservation": "yes",
+    "website": "https://www.hangarikalguksu.com/",
+    "website:menu": "https://www.hangarikalguksu.com/#Menu",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7972404073,
+  "lat": 34.0028276,
+  "lon": -117.7317828,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "korean;ice_cream;tea;coffee;shaved_ice",
+    "name": "Snowy Village Korean Dessert"
+  }
+},
+{
+  "type": "node",
+  "id": 7972404074,
+  "lat": 34.0029521,
+  "lon": -117.7311905,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean;barbecue",
+    "diet:meat": "yes",
+    "name": "Gen Korean BBQ"
+  }
+},
+{
+  "type": "node",
+  "id": 8322266871,
+  "lat": 34.0266145,
+  "lon": -118.4310030,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean;barbecue",
+    "name": "Galbi King"
+  }
+},
+{
+  "type": "node",
+  "id": 8356082493,
+  "lat": 34.0439067,
+  "lon": -118.4459930,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "1800",
+    "addr:postcode": "90025",
+    "addr:state": "CA",
+    "addr:street": "Sawtelle Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-09-07",
+    "contact:instagram": "https://www.instagram.com/themulberryla",
+    "contact:yelp": "https://www.yelp.com/biz/the-mulberry-los-angeles",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "The Mulberry",
+    "phone": "+1 310-598-5191",
+    "reservation": "yes",
+    "website": "https://www.themulberrylosangeles.com/",
+    "website:menu": "https://www.themulberrylosangeles.com/contact-1"
+  }
+},
+{
+  "type": "node",
+  "id": 8389693193,
+  "lat": 34.0622715,
+  "lon": -118.4479247,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Gushi"
+  }
+},
+{
+  "type": "node",
+  "id": 8461651400,
+  "lat": 34.0455690,
+  "lon": -118.2386644,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "333",
+    "addr:postcode": "90013",
+    "addr:state": "CA",
+    "addr:street": "South Alameda Street",
+    "addr:unit": "305",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "layer": "3",
+    "level": "3",
+    "name": "Manna Korean BBQ"
+  }
+},
+{
+  "type": "node",
+  "id": 8702512673,
+  "lat": 33.8600319,
+  "lon": -117.9960187,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "dPot at The Source",
+    "website": "https://www.dpotonline.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 8702512674,
+  "lat": 33.8599472,
+  "lon": -117.9966410,
+  "tags": {
+    "addr:city": "Buena Park",
+    "addr:housenumber": "6930",
+    "addr:postcode": "90621",
+    "addr:state": "CA",
+    "addr:street": "Beach Boulevard",
+    "addr:unit": "L130",
+    "amenity": "restaurant",
+    "brand": "Pelicana",
+    "brand:wikidata": "Q17575847",
+    "cuisine": "korean;chicken",
+    "diet:chicken": "yes",
+    "name": "Pelicana Chicken"
+  }
+},
+{
+  "type": "node",
+  "id": 8702512687,
+  "lat": 33.8592492,
+  "lon": -117.9969922,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "K SOUL FOOD"
+  }
+},
+{
+  "type": "node",
+  "id": 8702512688,
+  "lat": 33.8592514,
+  "lon": -117.9971585,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Magal Town (Magal BBQ & Misoolkwan)"
+  }
+},
+{
+  "type": "node",
+  "id": 8707656164,
+  "lat": 34.0692178,
+  "lon": -118.3052381,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "4177",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 3rd Street",
+    "amenity": "restaurant",
+    "cuisine": "barbecue;korean",
+    "email": "sukim0966@gmail.com",
+    "name": "Ten-Raku",
+    "opening_hours": "Mo-Fr 11:00-24:00; Sa 11:30-24:00; Su 12:00-23:00",
+    "phone": "+1-213-380-8382",
+    "website": "https://www.tenrakukbbq.com"
+  }
+},
+{
+  "type": "node",
+  "id": 9202854762,
+  "lat": 34.0289647,
+  "lon": -118.4428268,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "japanese;barbecue",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Tokyo Kalbi",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9349960516,
+  "lat": 33.8731592,
+  "lon": -118.3085360,
+  "tags": {
+    "addr:housenumber": "1743",
+    "addr:street": "West Artesia Boulevard",
+    "amenity": "restaurant",
+    "brand": "bb.q Chicken",
+    "brand:wikidata": "Q87716489",
+    "cuisine": "korean;chicken",
+    "drive_through": "no",
+    "indoor_seating": "yes",
+    "name": "bb.q Chicken",
+    "panoramax": "4b8ab37b-4066-421e-8cb9-09a23324360a",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9351014260,
+  "lat": 33.8735805,
+  "lon": -118.2999420,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Myung Ga",
+    "panoramax": "60fe19a1-f133-457f-84f9-0584fd8b858b"
+  }
+},
+{
+  "type": "node",
+  "id": 9395987205,
+  "lat": 33.9639956,
+  "lon": -118.1502371,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "fried_chicken;korean",
+    "diet:meat": "yes",
+    "name": "Legend Hot Chicken"
+  }
+},
+{
+  "type": "node",
+  "id": 9396027166,
+  "lat": 33.9900208,
+  "lon": -118.1217001,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Tomato Korean Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 9396059353,
+  "lat": 33.9893526,
+  "lon": -117.9046753,
+  "tags": {
+    "addr:housenumber": "18327",
+    "addr:postcode": "91748",
+    "addr:street": "Colima Road",
+    "amenity": "restaurant",
+    "brand": "Nice To Meet You Hot Pot",
+    "brand:en": "Nice To Meet You Hot Pot",
+    "brand:wikidata": "Q123093094",
+    "brand:zh": "那年遇见串串",
+    "check_date": "2026-03-28",
+    "check_date:opening_hours": "2026-03-28",
+    "contact:instagram": "bunsik88_rh",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "BUNSIK 88 - Korean Street",
+    "name:en": "BUNSIK 88 - Korean Street",
+    "name:zh": "那年遇见串串",
+    "opening_hours": "Tu-Su 10:00-20:30",
+    "outdoor_seating": "no",
+    "phone": "+1-626-269-0730",
+    "self_service": "no",
+    "website": "https://bunsik88.com/",
+    "website:menu": "https://order.online/business/14389789"
+  }
+},
+{
+  "type": "node",
+  "id": 9482692742,
+  "lat": 33.8317409,
+  "lon": -118.3100477,
+  "tags": {
+    "addr:housenumber": "1725",
+    "addr:postcode": "90501",
+    "addr:street": "West Carson Street",
+    "addr:unit": "A",
+    "amenity": "restaurant",
+    "check_date": "2026-04-06",
+    "check_date:opening_hours": "2026-04-06",
+    "contact:instagram": "baekjeongkbbq",
+    "cuisine": "korean",
+    "name": "Baekjeong Korean Barbecue",
+    "opening_hours": "Mo-Th 11:30-22:00; Fr 11:30-23:00; Sa 11:00-23:00; Su 11:00-22:00",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1 424-426-6328",
+    "website": "https://www.baekjeongkbbq.com",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9630329768,
+  "lat": 33.8972509,
+  "lon": -118.0082082,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "korean",
+    "name": "Flame Broiler"
+  }
+},
+{
+  "type": "node",
+  "id": 9692598819,
+  "lat": 34.0545599,
+  "lon": -118.3220460,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "4103",
+    "addr:postcode": "90019",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-06-13",
+    "contact:instagram": "https://www.instagram.com/kangnam.restaurant",
+    "contact:yelp": "https://www.yelp.com/biz/kang-nam-restaurant-los-angeles",
+    "cuisine": "korean;barbecue;sushi",
+    "name": "Kang Nam Restaurant",
+    "opening_hours": "11:00-22:00",
+    "phone": "+1 323-937-1070",
+    "start_date": "1982",
+    "website:menu": "http://www.kangnamrestaurant.com/main-menu.html"
+  }
+},
+{
+  "type": "node",
+  "id": 9742148508,
+  "lat": 34.0436915,
+  "lon": -118.4462710,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "1803",
+    "addr:postcode": "90025",
+    "addr:state": "CA",
+    "addr:street": "Sawtelle Boulevard",
+    "amenity": "restaurant",
+    "branch": "Sawtelle",
+    "check_date": "2026-09-07",
+    "contact:yelp": "https://www.yelp.com/biz/sun-nong-dan-los-angeles-6",
+    "cuisine": "korean",
+    "delivery": "yes",
+    "level": "0",
+    "microbrewery": "no",
+    "name": "Sun Nong Dan",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1 310-710-3988",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://sunnongdanusa.com/",
+    "website:menu": "https://sunnongdanusa.com/menu-with-tabs/"
+  }
+},
+{
+  "type": "node",
+  "id": 9742168227,
+  "lat": 34.0403037,
+  "lon": -118.4432880,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "2021",
+    "addr:postcode": "90025",
+    "addr:state": "CA",
+    "addr:street": "Sawtelle Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-09-08",
+    "contact:yelp": "https://www.yelp.com/biz/tofu-ya-los-angeles",
+    "cuisine": "korean",
+    "name": "Tofuya"
+  }
+},
+{
+  "type": "node",
+  "id": 9854569195,
+  "lat": 34.0540016,
+  "lon": -118.2920408,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "955",
+    "addr:postcode": "90006",
+    "addr:state": "CA",
+    "addr:street": "South Vermont Avenue",
+    "amenity": "restaurant",
+    "check_date": "2026-04-05",
+    "check_date:opening_hours": "2026-04-05",
+    "contact:facebook": "ParksBBQLA",
+    "contact:instagram": "parksbbq",
+    "cuisine": "korean",
+    "email": "hello@parksbbq.com",
+    "name": "Park's BBQ",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "phone": "+1 213-380-1717",
+    "website": "https://www.parksbbq.com/",
+    "website:menu": "https://parksbbq.com/menu/"
+  }
+},
+{
+  "type": "node",
+  "id": 9906488272,
+  "lat": 34.0475535,
+  "lon": -118.3205160,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean"
+  }
+},
+{
+  "type": "node",
+  "id": 9906488275,
+  "lat": 34.0475391,
+  "lon": -118.3250575,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Jeju"
+  }
+},
+{
+  "type": "node",
+  "id": 9906488276,
+  "lat": 34.0475218,
+  "lon": -118.3249031,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Kimchi House",
+    "opening_hours": "Mo-Sa 09:00-18:00"
+  }
+},
+{
+  "type": "node",
+  "id": 9906494917,
+  "lat": 34.0497450,
+  "lon": -118.3092985,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean;barbecue",
+    "name": "Meat Love Korean BBQ"
+  }
+},
+{
+  "type": "node",
+  "id": 9968835271,
+  "lat": 34.0575822,
+  "lon": -118.2967645,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean;seafood",
+    "name": "Ondal seafood",
+    "phone": "+1 213 382 8844",
+    "start_date": "1965",
+    "website": "https://www.ondalseafood.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9982812899,
+  "lat": 33.8700239,
+  "lon": -117.9249780,
+  "tags": {
+    "addr:city": "Fullerton",
+    "addr:housenumber": "114",
+    "addr:postcode": "92832",
+    "addr:state": "CA",
+    "addr:street": "West Commonwealth Avenue",
+    "amenity": "restaurant",
+    "name": "J's Korean Cuisine",
+    "opening_hours": "Tu-We 17:00-24:00; Su 11:30-20:30; Th 17:00-02:00; Fr-Sa 11:30-02:00",
+    "phone": "+1-714-519-3360",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://jcfullerton.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 10030627366,
+  "lat": 33.7736169,
+  "lon": -117.9662125,
+  "tags": {
+    "addr:city": "Garden Grove",
+    "addr:housenumber": "9520",
+    "addr:postcode": "92844",
+    "addr:state": "CA",
+    "addr:street": "Garden Grove Boulevard",
+    "addr:unit": "#9",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "BCD Tofu House",
+    "phone": "+1-714-636-5599",
+    "website": "https://www.bcdtofuhouse.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 10078071560,
+  "lat": 34.0388025,
+  "lon": -118.4422360,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:floor": "1",
+    "addr:housenumber": "2131",
+    "addr:postcode": "90025",
+    "addr:state": "CA",
+    "addr:street": "Sawtelle Boulevard",
+    "alt_name": "BBQ Chicken",
+    "amenity": "restaurant",
+    "branch": "Sawtelle",
+    "brand": "bb.q Chicken",
+    "brand:wikidata": "Q87716489",
+    "check_date": "2026-09-08",
+    "contact:yelp": "https://www.yelp.com/biz/bb-q-chicken-sawtelle-los-angeles-4",
+    "cuisine": "korean;chicken",
+    "delivery": "yes",
+    "drive_through": "no",
+    "level": "0",
+    "name": "bb.q Chicken",
+    "opening_hours": "11:00-22:00",
+    "phone": "+1-310-866-7709",
+    "takeaway": "yes",
+    "website": "https://bbqchicken.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 10132114952,
+  "lat": 33.8165230,
+  "lon": -118.3059093,
+  "tags": {
+    "addr:city": "Torrance",
+    "addr:housenumber": "1585",
+    "addr:postcode": "90501",
+    "addr:state": "CA",
+    "addr:street": "Sepulveda Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Kimbap Paradise",
+    "opening_hours": "Mo-Sa 10:00-20:00",
+    "phone": "+1 310-325-8282",
+    "website": "https://www.kimbapparadise.com"
+  }
+},
+{
+  "type": "node",
+  "id": 10159696876,
+  "lat": 33.7411447,
+  "lon": -117.8208361,
+  "tags": {
+    "addr:unit": "4",
+    "amenity": "fast_food",
+    "cuisine": "korean",
+    "name": "The Old School"
+  }
+},
+{
+  "type": "node",
+  "id": 10247574001,
+  "lat": 34.0180794,
+  "lon": -118.4727467,
+  "tags": {
+    "addr:housenumber": "1707",
+    "addr:street": "Pico Boulevard",
+    "amenity": "fast_food",
+    "cuisine": "korean",
+    "drive_through": "no",
+    "indoor_seating": "yes",
+    "name": "Mom and Bop",
+    "outdoor_seating": "no",
+    "panoramax": "0b87b3f2-3510-49d2-8cba-99eaedf25e97"
+  }
+},
+{
+  "type": "node",
+  "id": 10278995646,
+  "lat": 33.7696236,
+  "lon": -118.1979011,
+  "tags": {
+    "addr:city": "Long Beach",
+    "addr:housenumber": "421",
+    "addr:postcode": "90802",
+    "addr:state": "CA",
+    "addr:street": "West Broadway",
+    "addr:unit": "Unit 840",
+    "amenity": "fast_food",
+    "cuisine": "korean",
+    "name": "Seoulicious Korean BBQ",
+    "opening_hours": "Mo-Sa 10:30-20:00, Su 11:30-19:00",
+    "phone": "+1-562-445-4645",
+    "website": "https://seouliciouskbbq.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 10285405731,
+  "lat": 34.4430956,
+  "lon": -118.5734814,
+  "tags": {
+    "addr:city": "Santa Clarita",
+    "addr:housenumber": "28124",
+    "addr:postcode": "91355",
+    "addr:street": "Newhall Ranch Road",
+    "alt_name": "Hong Kong Ban Jun",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Paik’s Noodle",
+    "phone": "+1 661 678 0870"
+  }
+},
+{
+  "type": "node",
+  "id": 10301708323,
+  "lat": 34.0498548,
+  "lon": -118.2422676,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:floor": "3",
+    "addr:housenumber": "123",
+    "addr:postcode": "90012",
+    "addr:state": "CA",
+    "addr:street": "Astronaut Ellison S Onizuka Street",
+    "addr:unit": "302",
+    "amenity": "restaurant",
+    "check_date": "2025-12-27",
+    "contact:facebook": "https://www.facebook.com/koreabbqhouse/",
+    "contact:instagram": "https://www.instagram.com/korea-bbq-house",
+    "contact:yelp": "https://www.yelp.com/biz/korea-bbq-house-los-angeles",
+    "cuisine": "korean",
+    "level": "2",
+    "name": "Korea BBQ House",
+    "opening_hours": "Mo-Fr 10:00-21:00; Sa-Su 11:00-21:00",
+    "phone": "+1 213-680-1826",
+    "website": "https://www.koreabbqhouse.com/",
+    "website:menu": "https://www.koreabbqhouse.com/koreanbbqmenu"
+  }
+},
+{
+  "type": "node",
+  "id": 10746685299,
+  "lat": 34.0508150,
+  "lon": -118.2487381,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "317",
+    "addr:postcode": "90013",
+    "addr:state": "CA",
+    "addr:street": "South Broadway",
+    "amenity": "fast_food",
+    "check_date": "2023-11-16",
+    "check_date:currency:XBT": "2026-07-23",
+    "cuisine": "korean",
+    "currency:XBT": "yes",
+    "name": "Shiku",
+    "payment:lightning": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10796024902,
+  "lat": 33.8599114,
+  "lon": -117.9973714,
+  "tags": {
+    "addr:floor": "3",
+    "amenity": "restaurant",
+    "check_date": "2023-04-08",
+    "cuisine": "korean;barbecue",
+    "drink:soju": "yes",
+    "level": "2",
+    "name": "Gangnam House at the Source",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10796024903,
+  "lat": 33.8599984,
+  "lon": -117.9970800,
+  "tags": {
+    "addr:floor": "3",
+    "amenity": "restaurant",
+    "check_date": "2023-04-08",
+    "cuisine": "korean",
+    "level": "2",
+    "name": "Jinsu Tofu House"
+  }
+},
+{
+  "type": "node",
+  "id": 10933394741,
+  "lat": 34.0615193,
+  "lon": -118.3043561,
+  "tags": {
+    "alt_name": "Myung Dong Kyoja",
+    "amenity": "restaurant",
+    "cuisine": "noodle;korean",
+    "name": "mdk noodles",
+    "website": "http://www.mdknoodles.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 10933394742,
+  "lat": 34.0615329,
+  "lon": -118.3034315,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Seoul Salon"
+  }
+},
+{
+  "type": "node",
+  "id": 10933394791,
+  "lat": 34.0639975,
+  "lon": -118.2977285,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3465",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "addr:unit": "C-130",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:instagram": "https://www.instagram.com/quarters.la/",
+    "contact:yelp": "https://www.yelp.com/biz/quarters-korean-bbq-los-angeles",
+    "cuisine": "korean;barbecue",
+    "email": "info@quarterskbbq.com",
+    "name": "Quarters",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-213-468-0065",
+    "website": "https://www.quarterskbbq.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 10933394797,
+  "lat": 34.0638067,
+  "lon": -118.2973154,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3465",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "addr:unit": "20",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "cuisine": "korean;barbecue",
+    "email": "hello@originkbbq.com",
+    "level": "0",
+    "name": "Origin Korean BBQ",
+    "opening_hours": "Mo-Th,Su 11:00-24:00; Fr-Sa 11:00-02:00",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-213-451-6067",
+    "reservation": "yes",
+    "toilets": "yes",
+    "was:name": "Kang Ho Dong Baekjeong",
+    "website": "https://www.originkbbq.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10933394798,
+  "lat": 34.0637391,
+  "lon": -118.2968315,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3451",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:facebook": "https://www.facebook.com/1446544982255538",
+    "contact:instagram": "https://www.instagram.com/escalaktown",
+    "contact:twitter": "https://twitter.com/escalaktown",
+    "contact:yelp": "https://www.yelp.com/biz/escala-los-angeles-2",
+    "cuisine": "korean;colombian",
+    "delivery": "yes",
+    "email": "info@escalaktown.com",
+    "level": "0",
+    "name": "Escala",
+    "opening_hours": "Mo-We,Su 11:30-24:00; Th-Sa 11:30-02:00",
+    "phone": "+1-213-387-1113",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "https://escalaktown.com/",
+    "website:menu": "https://escalaktown.com/los-angeles-koreatown-escala-food-menu"
+  }
+},
+{
+  "type": "node",
+  "id": 10933394804,
+  "lat": 34.0633347,
+  "lon": -118.2975030,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3470",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "addr:unit": "2A",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:facebook": "https://www.facebook.com/LoudersLA/",
+    "contact:instagram": "https://www.instagram.com/loudersla",
+    "contact:yelp": "https://www.yelp.com/biz/louders-los-angeles",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Louders",
+    "opening_hours": "Mo 17:00-01:00; Tu 17:00-01:30; We-Sa 12:00-01:30; Su 12:00-24:00",
+    "website": "https://www.loudersla.com/",
+    "website:menu": "https://www.loudersla.com/menu-1"
+  }
+},
+{
+  "type": "node",
+  "id": 10933444908,
+  "lat": 34.0634212,
+  "lon": -118.3038152,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3732",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "check_date": "2026-06-21",
+    "contact:yelp": "https://www.yelp.com/biz/king-chang-la-los-angeles",
+    "cuisine": "korean",
+    "delivery": "yes",
+    "name": "King Chang",
+    "opening_hours": "Mo-We,Su 16:00-24:00; Th-Sa 16:00-02:00",
+    "phone": "+1 213-318-5250",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "https://kingchangla.com/",
+    "website:menu": "https://kingchangla.com/menu/"
+  }
+},
+{
+  "type": "node",
+  "id": 10933444909,
+  "lat": 34.0634077,
+  "lon": -118.3039371,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3744",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "check_date": "2026-06-21",
+    "contact:facebook": "https://www.facebook.com/ahgassigopchang/",
+    "contact:instagram": "https://www.instagram.com/ahgassigopchang",
+    "contact:yelp": "https://www.yelp.com/biz/ahgassi-gopchang-los-angeles-6",
+    "cuisine": "korean;barbecue",
+    "name": "Ahgassi Gopchang",
+    "website": "https://www.kijung.com/ahgassi-gopchang/"
+  }
+},
+{
+  "type": "node",
+  "id": 10982033323,
+  "lat": 34.0471962,
+  "lon": -118.2387894,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:floor": "1",
+    "addr:housenumber": "442",
+    "addr:postcode": "90012",
+    "addr:state": "CA",
+    "addr:street": "East 2nd Street",
+    "amenity": "restaurant",
+    "brand": "bb.q Chicken",
+    "brand:wikidata": "Q87716489",
+    "check_date": "2026-07-05",
+    "contact:yelp": "https://www.yelp.com/biz/bb-q-chicken-los-angeles-4",
+    "cuisine": "korean;chicken",
+    "level": "0",
+    "name": "bb.q Chicken",
+    "opening_hours": "Mo-Th,Su 11:00-21:00; Fr-Sa 11:00-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1 323-989-9000",
+    "website": "https://bbqchicken.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10982834406,
+  "lat": 34.0614670,
+  "lon": -118.3113941,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3900",
+    "addr:postcode": "90010",
+    "addr:state": "CA",
+    "addr:street": "Wilshire Boulevard",
+    "amenity": "restaurant",
+    "branch": "Los Angeles",
+    "check_date": "2026-08-18",
+    "contact:yelp": "https://www.yelp.com/biz/koreatown-pizza-los-angeles-2",
+    "cuisine": "korean;pizza;sandwich",
+    "email": "koreatownpizzaco.la@gmail.com",
+    "name": "Korea Town Pizza",
+    "opening_hours": "Mo-Th,Su 11:00-22:00; Fr-Sa 11:00-23:00",
+    "phone": "+1-213-738-0077",
+    "website": "https://koreatownpizzaco.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11004312301,
+  "lat": 33.8327242,
+  "lon": -118.3484410,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "korean",
+    "drive_through": "no",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Orange Tokki",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11006283684,
+  "lat": 33.8127218,
+  "lon": -117.9929371,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "JinSol Gukbap",
+    "opening_hours": "Mo-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11038488511,
+  "lat": 34.0530235,
+  "lon": -118.3190540,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3700",
+    "addr:postcode": "90019",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-06-13",
+    "contact:instagram": "https://www.instagram.com/bakkungbbq4",
+    "contact:tiktok": "https://www.tiktok.com/@bakkungkbbq",
+    "contact:yelp": "https://www.yelp.com/biz/bak-kung-korean-bbq-los-angeles-2",
+    "cuisine": "korean",
+    "email": "info@bakkung.com",
+    "name": "Bak Kung Korean B.B.Q",
+    "opening_hours": "Mo-Th,Su 12:00-22:30; Fr-Sa 12:00-23:00",
+    "phone": "+1 323-734-9292",
+    "reservation": "yes",
+    "website": "https://www.bakkungbbq.com/",
+    "website:menu": "https://www.bakkungbbq.com/menu"
+  }
+},
+{
+  "type": "node",
+  "id": 11047294414,
+  "lat": 33.8043285,
+  "lon": -118.3302180,
+  "tags": {
+    "addr:unit": "E",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "On + On"
+  }
+},
+{
+  "type": "node",
+  "id": 11047386425,
+  "lat": 33.8018914,
+  "lon": -118.3287417,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "chicken;korean",
+    "drive_through": "no",
+    "indoor_seating": "yes",
+    "name": "Vons Chicken",
+    "opening_hours": "We-Th, Su 11:00-20:00; Fr-Sa 11:00-21:00",
+    "outdoor_seating": "no",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11145355231,
+  "lat": 34.0223582,
+  "lon": -118.2921699,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Cafe Mukbang",
+    "website": "https://cafemukbangusc.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11216905311,
+  "lat": 33.9400728,
+  "lon": -118.1339486,
+  "tags": {
+    "addr:housenumber": "8248",
+    "addr:state": "CA",
+    "addr:street": "Firestone Boulevard",
+    "amenity": "fast_food",
+    "cuisine": "chicken;korean",
+    "indoor_seating": "yes",
+    "name": "Chicken Pelicana",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11365685830,
+  "lat": 34.2086799,
+  "lon": -118.5354089,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "왕돼지"
+  }
+},
+{
+  "type": "node",
+  "id": 11369928056,
+  "lat": 33.7245885,
+  "lon": -117.7937824,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "I Can Barbecue"
+  }
+},
+{
+  "type": "node",
+  "id": 11391069603,
+  "lat": 34.0917669,
+  "lon": -118.2794250,
+  "tags": {
+    "addr:housenumber": "3827",
+    "addr:postcode": "90026",
+    "addr:street": "Sunset Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2024-09-30",
+    "cuisine": "korean;barbecue;beef_bowl",
+    "description": "We specialize in Korean dishes that are authentic, contemporary and full of flavor. Our menu includes traditional items like Bulgogi Rice Bowl, Spicy Pork Bowl, Black Pepper Chicken and our specialty, the Galbi Bowl made with braised short ribs vegetables",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.n8IPYUYr5pTpEYKJm0XcaQHaEw%26pid%3DApi&f=1&ipt=cff86973965550e605304ba2331cf1664fe61a322aa331329b9ad30105f96450&ipo=images",
+    "name": "BBQ+Rice",
+    "opening_hours": "Mo-Fr 11:00-16:00,17:00-22:00; Sa 11:00-16:00,17:00-21:00; Su off",
+    "phone": "+1 323-284-8446",
+    "website": "https://www.bbqricela.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11535049569,
+  "lat": 34.2280924,
+  "lon": -118.2458998,
+  "tags": {
+    "addr:housenumber": "3051-A",
+    "addr:postcode": "91214",
+    "addr:street": "Foothill Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Nanuri Snack",
+    "opening_hours": "Mo-Sa 11:00-19:00",
+    "phone": "+1-818-330-9338",
+    "website": "https://www.nanurikitchen.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11637716855,
+  "lat": 34.1830641,
+  "lon": -118.3120474,
+  "tags": {
+    "addr:city": "Burbank",
+    "addr:floor": "1",
+    "addr:housenumber": "201",
+    "addr:postcode": "91502",
+    "addr:state": "CA",
+    "addr:street": "Magnolia Boulevard",
+    "addr:unit": "281",
+    "amenity": "restaurant",
+    "check_date": "2024-04-21",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Han Korean BBQ House",
+    "opening_hours": "Mo-Th,Su 12:00-22:00; Fr-Sa 12:00-22:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1 323-934-3330",
+    "website": "https://hanbbq.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11667120368,
+  "lat": 33.8364995,
+  "lon": -118.3157475,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "3355 Asian Grill"
+  }
+},
+{
+  "type": "node",
+  "id": 11682593422,
+  "lat": 33.8888667,
+  "lon": -118.3053513,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Wooga Sullungtang"
+  }
+},
+{
+  "type": "node",
+  "id": 11738024766,
+  "lat": 33.9946733,
+  "lon": -117.8903475,
+  "tags": {
+    "addr:housenumber": "18900",
+    "addr:street": "Gale Avenue",
+    "addr:unit": "A",
+    "amenity": "restaurant",
+    "check_date": "2024-03-16",
+    "contact:instagram": "baekjeongkbbq",
+    "cuisine": "korean;barbecue",
+    "diet:vegetarian": "no",
+    "drink:beer": "yes",
+    "name": "Baekjeong",
+    "outdoor_seating": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11765138784,
+  "lat": 33.8293115,
+  "lon": -118.1448524,
+  "tags": {
+    "addr:city": "Long Beach",
+    "addr:housenumber": "4150",
+    "addr:postcode": "90808",
+    "addr:state": "CA",
+    "addr:street": "McGowen Street",
+    "addr:unit": "14",
+    "amenity": "restaurant",
+    "check_date": "2026-07-29",
+    "cuisine": "korean",
+    "name": "Marinate Korean BBQ",
+    "opening_hours": "Mo-Fr 10:00-18:00",
+    "website": "https://thelongbeachexchange.com/marinate-korean-bbq"
+  }
+},
+{
+  "type": "node",
+  "id": 11778597509,
+  "lat": 33.9183185,
+  "lon": -118.4149184,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "korean",
+    "drive_through": "no",
+    "name": "Rice Cups"
+  }
+},
+{
+  "type": "node",
+  "id": 11781043569,
+  "lat": 34.1473513,
+  "lon": -118.2537624,
+  "tags": {
+    "addr:housenumber": "126",
+    "addr:postcode": "91206",
+    "addr:street": "North Artsakh Avenue",
+    "amenity": "restaurant",
+    "branch": "House",
+    "brand": "Gen Korean BBQ",
+    "brand:wikidata": "Q124294849",
+    "cuisine": "korean;barbecue",
+    "name": "Gen Korean BBQ"
+  }
+},
+{
+  "type": "node",
+  "id": 11795539496,
+  "lat": 33.9458551,
+  "lon": -118.3867404,
+  "tags": {
+    "addr:housenumber": "5901",
+    "addr:street": "West Century Boulevard",
+    "addr:unit": "104",
+    "amenity": "restaurant",
+    "cuisine": "coffee_shop;salad;korean",
+    "level": "0",
+    "name": "Trimana",
+    "opening_hours": "Mo-Fr 06:00-17:00,Sa 07:00-14:30",
+    "payment:apple_pay": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11812531064,
+  "lat": 33.8205348,
+  "lon": -117.8368124,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "HOLDAAK"
+  }
+},
+{
+  "type": "node",
+  "id": 11917675681,
+  "lat": 34.2712300,
+  "lon": -118.7300400,
+  "tags": {
+    "addr:city": "Simi Valley",
+    "addr:housenumber": "1970",
+    "addr:postcode": "93063",
+    "addr:state": "CA",
+    "addr:street": "Sequoia Avenue",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "no",
+    "name": "Top Chef Korean BBQ",
+    "opening_hours": "Mo-Su 11:00-21:00",
+    "outdoor_seating": "no",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:cryptocurrencies": "yes",
+    "payment:google_pay": "yes",
+    "phone": "+1 805-791-3166",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "https://www.topchefkbbq.com",
+    "website:menu": "https://www.topchefkbbq.com/menu",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11929713169,
+  "lat": 34.0672322,
+  "lon": -118.2921433,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Kimbap Paradise",
+    "opening_hours": "Mo-Fr 10:00-02:00, Sa 07:00-02:00, Su 07:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11951123873,
+  "lat": 34.2781600,
+  "lon": -118.7098900,
+  "tags": {
+    "addr:city": "Simi Valley",
+    "addr:housenumber": "2381",
+    "addr:postcode": "93063",
+    "addr:state": "CA",
+    "addr:street": "Tapo Street",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "no",
+    "name": "K-Bbq Korean Bbq",
+    "opening_hours": "Mo-Su 12:00-22:00; Tu off",
+    "outdoor_seating": "no",
+    "payment:credit_cards": "yes",
+    "payment:cryptocurrencies": "yes",
+    "phone": "+1 805-579-9217",
+    "reservation": "no",
+    "website": "https://kbbqsimivalley.com",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11998496300,
+  "lat": 33.8601931,
+  "lon": -117.9423197,
+  "tags": {
+    "addr:city": "Fullerton",
+    "addr:housenumber": "1201",
+    "addr:postcode": "92832",
+    "addr:state": "CA",
+    "addr:street": "South Euclid Street",
+    "addr:unit": "B",
+    "amenity": "restaurant",
+    "cuisine": "chicken;korean;sandwich",
+    "diet:chicken": "yes",
+    "name": "HOLDAAK Fried Chicken",
+    "opening_hours": "Mo-Su 11:00-21:00; Fr 11:00-22:00",
+    "website": "https://holdaak.com"
+  }
+},
+{
+  "type": "node",
+  "id": 12040439860,
+  "lat": 34.1500022,
+  "lon": -118.3962448,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "4350",
+    "addr:street": "Laurel Canyon Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2024-07-07",
+    "cuisine": "korean",
+    "email": "SBSTUDIOCITY@GMAIL.COM",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Seoul Bistro",
+    "opening_hours": "11:30-21:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1 818-821-3377",
+    "website": "http://seoulbistrostudiocity.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12044908869,
+  "lat": 34.0670618,
+  "lon": -118.2921231,
+  "tags": {
+    "addr:housenumber": "401",
+    "addr:postcode": "90020",
+    "addr:street": "South Vermont Avenue",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Go! Pocha",
+    "opening_hours": "Mo-Su 17:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12048233616,
+  "lat": 33.9871056,
+  "lon": -118.4411386,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean"
+  }
+},
+{
+  "type": "node",
+  "id": 12095617976,
+  "lat": 34.1504297,
+  "lon": -118.2548070,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Jincook"
+  }
+},
+{
+  "type": "node",
+  "id": 12099871065,
+  "lat": 33.8743448,
+  "lon": -118.0473052,
+  "tags": {
+    "addr:street": "Artesia Boulevard",
+    "amenity": "fast_food",
+    "cuisine": "korean",
+    "diet:vegetarian": "yes",
+    "drive_through": "no",
+    "indoor_seating": "yes",
+    "name": "K Food Express",
+    "outdoor_seating": "no",
+    "panoramax": "d2ca654c-7302-481b-bf80-93aa24c34dc4"
+  }
+},
+{
+  "type": "node",
+  "id": 12099871069,
+  "lat": 33.8735848,
+  "lon": -118.0483791,
+  "tags": {
+    "addr:housenumber": "13303",
+    "addr:street": "Artesia Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "indoor_seating": "yes",
+    "name": "So Mun Nan",
+    "outdoor_seating": "no",
+    "panoramax": "94451686-680d-4618-af01-418b5c9b25b8"
+  }
+},
+{
+  "type": "node",
+  "id": 12099871079,
+  "lat": 33.8743490,
+  "lon": -118.0476437,
+  "tags": {
+    "addr:housenumber": "13337",
+    "addr:street": "Artesia Boulevard",
+    "amenity": "fast_food",
+    "cuisine": "korean",
+    "drive_through": "no",
+    "indoor_seating": "yes",
+    "name": "Pocha Eats",
+    "opening_hours": "Tu,We 11:00-21:00; Mo off; Th-Sa 11:00-23:00; Su 11:00-22:00",
+    "outdoor_seating": "no",
+    "panoramax": "3f2d89aa-1961-49a1-8a16-5d9234f9e776"
+  }
+},
+{
+  "type": "node",
+  "id": 12138265757,
+  "lat": 33.8837742,
+  "lon": -117.9975785,
+  "tags": {
+    "addr:city": "Buena Park",
+    "addr:housenumber": "5321",
+    "addr:postcode": "90621",
+    "addr:state": "CA",
+    "addr:street": "Beach Boulevard",
+    "amenity": "restaurant",
+    "brand": "BCD Tofu House",
+    "brand:wikidata": "Q125537897",
+    "cuisine": "korean",
+    "name": "BCD Tofu House",
+    "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
+    "phone": "+1-714-521-4500",
+    "website": "https://www.bcdtofuhouse.com"
+  }
+},
+{
+  "type": "node",
+  "id": 12159145717,
+  "lat": 33.8734388,
+  "lon": -118.0710861,
+  "tags": {
+    "addr:housenumber": "12243",
+    "addr:street": "Artesia Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "indoor_seating": "yes",
+    "name": "Luv DDuk",
+    "opening_hours": "Mo off; Tu-Fr 15:00-25:00; Sa-Su 12:00-25:00",
+    "outdoor_seating": "no",
+    "panoramax": "f5439936-03a8-4201-aa5b-2508f8f7363e"
+  }
+},
+{
+  "type": "node",
+  "id": 12159145718,
+  "lat": 33.8733531,
+  "lon": -118.0710796,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "indoor_seating": "yes",
+    "name": "Chodang",
+    "opening_hours": "Mo-Su 10:00-26:00",
+    "outdoor_seating": "no",
+    "panoramax": "91ded070-dfbf-4a84-8fd7-31c9f2bafeeb",
+    "panoramax:0": "04f6444e-aa88-4002-90d6-5530baba49f5"
+  }
+},
+{
+  "type": "node",
+  "id": 12159145733,
+  "lat": 33.8727699,
+  "lon": -118.0728553,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "korean",
+    "indoor_seating": "yes",
+    "name": "Goobne Chicken",
+    "opening_hours": "Mo-Th,Su 11:00-22:00; Fr-Sa 11:00-22:30",
+    "panoramax": "cdd84413-6ce6-4f57-baaa-9e7b0c76f27f",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12164353224,
+  "lat": 34.2080555,
+  "lon": -118.5706016,
+  "tags": {
+    "addr:city": "Winnetka",
+    "addr:housenumber": "7574",
+    "addr:postcode": "91306",
+    "addr:state": "CA",
+    "addr:street": "Winnetka Avenue",
+    "amenity": "cafe",
+    "cuisine": "korean",
+    "name": "Maru Bowl - Ritto",
+    "opening_hours": "Tu-Sa 11:00-15:00,16:30-21:00",
+    "phone": "+1-747-224-0178"
+  }
+},
+{
+  "type": "node",
+  "id": 12167142393,
+  "lat": 33.8021290,
+  "lon": -118.3197688,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Monster Kimbap",
+    "panoramax": "ca91e9b6-3a7f-4342-9d29-8986c8ea91c5",
+    "website": "https://www.monster-kimbap.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12176004419,
+  "lat": 33.8194900,
+  "lon": -118.3205228,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Hak San"
+  }
+},
+{
+  "type": "node",
+  "id": 12195780226,
+  "lat": 34.1447702,
+  "lon": -118.1507342,
+  "tags": {
+    "addr:city": "Pasadena",
+    "addr:housenumber": "61",
+    "addr:postcode": "91105",
+    "addr:state": "CA",
+    "addr:street": "South Fair Oaks Avenue",
+    "addr:unit": "130",
+    "amenity": "restaurant",
+    "check_date": "2025-11-01",
+    "contact:facebook": "https://www.facebook.com/531899990014189",
+    "contact:instagram": "https://www.instagram.com/urbanpocha/?hl=en",
+    "contact:yelp": "https://www.yelp.com/biz/urban-pocha-pasadena",
+    "cuisine": "korean",
+    "email": "urbanpocha.pasadena@gmail.com",
+    "name": "Urban Pocha",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-01:30; Sa 17:00-01:30; Su 17:00-23:00",
+    "phone": "+1-626-345-5596",
+    "reservation": "yes",
+    "website": "https://urbanpocha.com/",
+    "website:menu": "https://urbanpocha.com/pasadena-urban-pocha-food-menu"
+  }
+},
+{
+  "type": "node",
+  "id": 12203358238,
+  "lat": 34.2014830,
+  "lon": -118.5169633,
+  "tags": {
+    "addr:housenumber": "17623",
+    "addr:street": "Sherman Way",
+    "amenity": "restaurant",
+    "branch": "Van Nuys",
+    "check_date": "2024-09-26",
+    "cuisine": "korean",
+    "name": "Hanoo Kalbi",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:discover_card": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+1 818-758-9545",
+    "toilets": "yes",
+    "website": "https://hanookalbi.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12251469048,
+  "lat": 33.7898796,
+  "lon": -117.9621113,
+  "tags": {
+    "addr:city": "Garden Grove",
+    "addr:housenumber": "9777",
+    "addr:postcode": "92841",
+    "addr:state": "CA",
+    "addr:street": "Chapman Avenue",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese;korean",
+    "name": "S365 Veggie"
+  }
+},
+{
+  "type": "node",
+  "id": 12329333974,
+  "lat": 34.0976182,
+  "lon": -118.3654272,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "bb.q Chicken",
+    "brand:wikidata": "Q87716489",
+    "cuisine": "korean;chicken",
+    "name": "bb.q Chicken"
+  }
+},
+{
+  "type": "node",
+  "id": 12338908338,
+  "lat": 33.7745360,
+  "lon": -117.9772495,
+  "tags": {
+    "addr:city": "Garden Grove",
+    "addr:housenumber": "8895",
+    "addr:postcode": "92844",
+    "addr:state": "CA",
+    "addr:street": "Garden Grove Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Kaju Soft Tofu Restaurant",
+    "opening_hours": "Mo-Su 11:00-22:30",
+    "phone": "+1 714-636-2849",
+    "website": "https://www.kajusofttofu.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 12349545113,
+  "lat": 34.0701400,
+  "lon": -118.3075369,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "234",
+    "addr:street": "South Oxford Avenue",
+    "amenity": "restaurant",
+    "check_date": "2024-11-17",
+    "cuisine": "korean;grill",
+    "level": "0",
+    "name": "Anju House",
+    "opening_hours": "Mo-Fr 17:00-02:00; Sa 11:00-02:00; Su 11:00-24:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1 213-315-5153",
+    "website": "https://www.anju-house.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12360621798,
+  "lat": 34.2364863,
+  "lon": -118.5375761,
+  "tags": {
+    "addr:city": "Northridge",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "BÖP+HAGO"
+  }
+},
+{
+  "type": "node",
+  "id": 12375154700,
+  "lat": 34.0577648,
+  "lon": -117.8230194,
+  "tags": {
+    "addr:city": "Pomona",
+    "addr:housenumber": "3801",
+    "addr:postcode": "91768",
+    "addr:state": "CA",
+    "addr:street": "West Temple Avenue",
+    "addr:unit": "Building 97",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "TaKorean",
+    "website": "https://foundation.cpp.edu/dining/restaurants-takorean.aspx"
+  }
+},
+{
+  "type": "node",
+  "id": 12377108999,
+  "lat": 34.0637415,
+  "lon": -118.2945581,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3317",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "check_date": "2025-08-16",
+    "contact:instagram": "https://www.instagram.com/dan_sung_sa_la/",
+    "contact:yelp": "https://www.yelp.com/biz/dan-sung-sa-los-angeles",
+    "cuisine": "korean",
+    "name": "Dan Sung Sa",
+    "name:ko": "단성사",
+    "phone": "+1-213-487-9100",
+    "website": "https://dansungsala.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12377109000,
+  "lat": 34.0640009,
+  "lon": -118.2943780,
+  "tags": {
+    "addr:housenumber": "3303",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "check_date": "2025-08-16",
+    "contact:yelp": "https://www.yelp.com/biz/seong-buk-dong-los-angeles",
+    "cuisine": "korean",
+    "name": "Seongbukdong",
+    "name:ko": "성북동"
+  }
+},
+{
+  "type": "node",
+  "id": 12377173829,
+  "lat": 33.9189798,
+  "lon": -117.8865648,
+  "tags": {
+    "addr:housenumber": "955",
+    "addr:street": "East Birch Street",
+    "addr:unit": "C",
+    "amenity": "restaurant",
+    "check_date": "2024-11-26",
+    "cuisine": "korean;chinese",
+    "name": "Panholic",
+    "phone": "+1 657-286-5389"
+  }
+},
+{
+  "type": "node",
+  "id": 12437980736,
+  "lat": 33.7720801,
+  "lon": -118.3733994,
+  "tags": {
+    "addr:housenumber": "550",
+    "addr:street": "Deep Valley Drive",
+    "addr:unit": "265",
+    "amenity": "restaurant",
+    "cuisine": "korean;italian",
+    "email": "hello@sugopv.com",
+    "level": "1",
+    "name": "Sugo Social",
+    "opening_hours": "Mo-Su 11:00-19:00",
+    "panoramax": "afecf6d2-a409-49ee-b5d9-8ec7742f2b8c",
+    "panoramax:0": "76b9af08-253d-4f88-992c-4b74383ee9bd",
+    "phone": "+1-310-265-4855",
+    "website": "https://sugopv.com"
+  }
+},
+{
+  "type": "node",
+  "id": 12518060853,
+  "lat": 33.9834236,
+  "lon": -117.7143016,
+  "tags": {
+    "addr:city": "Chino Hills",
+    "addr:housenumber": "4200",
+    "addr:postcode": "91709",
+    "addr:state": "CA",
+    "addr:street": "Chino Hills Parkway",
+    "addr:unit": "130",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Chodang Tofu",
+    "phone": "+1-909-606-7524"
+  }
+},
+{
+  "type": "node",
+  "id": 12589761801,
+  "lat": 34.0493480,
+  "lon": -118.3084253,
+  "tags": {
+    "addr:housenumber": "1144",
+    "addr:postcode": "90006",
+    "addr:street": "South Western Avenue",
+    "amenity": "restaurant",
+    "contact:instagram": "thankschicken_townhof",
+    "cuisine": "chicken;korean",
+    "internet_access": "wlan",
+    "name": "Town Hof and Thanks Chicken",
+    "opening_hours": "Mo-Su 17:00-02:00",
+    "phone": "+1 323-998-0818",
+    "website": "https://thankschicken.com"
+  }
+},
+{
+  "type": "node",
+  "id": 12596389099,
+  "lat": 33.8729603,
+  "lon": -118.0453370,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "delivery": "yes",
+    "indoor_seating": "yes",
+    "name": "Otto Kitchen",
+    "outdoor_seating": "yes",
+    "panoramax": "9b93da6f-ecb7-4d8d-add1-755e9862ea5c",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12662768202,
+  "lat": 34.1499723,
+  "lon": -118.1326183,
+  "tags": {
+    "addr:city": "Pasadena",
+    "addr:housenumber": "229",
+    "addr:postcode": "91101",
+    "addr:state": "CA",
+    "addr:street": "North Lake Avenue",
+    "amenity": "restaurant",
+    "check_date": "2026-01-04",
+    "contact:yelp": "https://www.yelp.com/biz/teri-and-yaki-pasadena-2",
+    "cuisine": "korean",
+    "name": "Teri & Yaki",
+    "opening_hours": "Mo-Fr 11:00-19:30; Sa 12:00-19:00",
+    "phone": "+1-626-844-4554",
+    "takeaway": "yes",
+    "website": "https://teriandyaki.com/",
+    "website:menu": "https://teriandyaki.com/?page_id=105"
+  }
+},
+{
+  "type": "node",
+  "id": 12662780401,
+  "lat": 34.0580026,
+  "lon": -118.3028519,
+  "tags": {
+    "addr:housenumber": "3385",
+    "addr:postcode": "90005",
+    "addr:street": "West 8th Street",
+    "amenity": "restaurant",
+    "cuisine": "barbecue;korean",
+    "name": "Oo-Kook Korean BBQ",
+    "opening_hours": "Mo-Fr 17:00-23:00; Sa-Su 12:00-23:00",
+    "phone": "+1-213-385-5665",
+    "website": "https://oo-kook-korean-bbq.restaurants-world.com/",
+    "website:menu": "https://oo-kook-korean-bbq.restaurants-world.com/menu"
+  }
+},
+{
+  "type": "node",
+  "id": 12674936055,
+  "lat": 33.8597271,
+  "lon": -118.0721429,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Red Palace",
+    "opening_hours": "11:00-23:00",
+    "panoramax": "0c4f862c-ca32-47a4-9470-082d56393049"
+  }
+},
+{
+  "type": "node",
+  "id": 12690066801,
+  "lat": 34.0747596,
+  "lon": -118.3095539,
+  "tags": {
+    "addr:housenumber": "201",
+    "addr:postcode": "90004",
+    "addr:street": "North Western Avenue",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "internet_access": "wlan",
+    "name": "Jeonju Hyundaiok",
+    "name:ko": "전주 현대옥",
+    "opening_hours": "Su 07:00-15:00; Mo, We, Fr-Sa 07:00-15:00, 17:00-21:00; Tu, Th 07:00-21:00",
+    "outdoor_seating": "no",
+    "phone": "+1 213-915-0058",
+    "self_service": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12756073892,
+  "lat": 33.8576511,
+  "lon": -118.0648884,
+  "tags": {
+    "addr:city": "Cerritos",
+    "addr:housenumber": "19105,19107",
+    "addr:postcode": "90703",
+    "addr:state": "CA",
+    "addr:street": "Bloomfield Avenue",
+    "amenity": "restaurant",
+    "cuisine": "korean;barbecue",
+    "indoor_seating": "yes",
+    "name": "Red Palace",
+    "outdoor_seating": "no",
+    "panoramax": "ecf92caf-d492-4c3b-aa37-d7b6e644c9ba"
+  }
+},
+{
+  "type": "node",
+  "id": 12776738701,
+  "lat": 33.8544525,
+  "lon": -118.2998691,
+  "tags": {
+    "addr:housenumber": "1441",
+    "addr:postcode": "90501",
+    "addr:street": "West Knox Street",
+    "amenity": "restaurant",
+    "contact:instagram": "ononkitchen",
+    "cuisine": "korean",
+    "name": "ON + ON Fresh Korean Kitchen",
+    "opening_hours": "Mo-Fr 10:30-21:00; Sa 11:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+1 310-618-0606",
+    "website": "https://ononkitchen.com",
+    "website:menu": "https://ononkitchen.com/menu/"
+  }
+},
+{
+  "type": "node",
+  "id": 12802795216,
+  "lat": 33.8379652,
+  "lon": -118.3649398,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean"
+  }
+},
+{
+  "type": "node",
+  "id": 12829456486,
+  "lat": 34.1022413,
+  "lon": -118.1099318,
+  "tags": {
+    "addr:city": "San Gabriel",
+    "addr:housenumber": "704",
+    "addr:postcode": "91776",
+    "addr:state": "CA",
+    "addr:street": "West Las Tunas Drive",
+    "addr:unit": "E1",
+    "amenity": "restaurant",
+    "check_date": "2026-03-16",
+    "contact:yelp": "https://www.yelp.com/biz/yuk-dae-jang-san-gabriel-san-gabriel",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Yuk Dae Jang"
+  }
+},
+{
+  "type": "node",
+  "id": 12850158692,
+  "lat": 34.2386516,
+  "lon": -118.5558628,
+  "tags": {
+    "addr:city": "Northridge",
+    "addr:housenumber": "9301",
+    "addr:postcode": "91324",
+    "addr:state": "CA",
+    "addr:street": "Tampa Avenue",
+    "amenity": "fast_food",
+    "cuisine": "corn_dog;korean",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "drive_through": "no",
+    "level": "1",
+    "name": "Kopo Krunch",
+    "phone": "+1-818-669-3870",
+    "start_date": "2024-07-19",
+    "website": "https://www.kopokrunch.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12920294937,
+  "lat": 33.8592515,
+  "lon": -118.0727232,
+  "tags": {
+    "addr:housenumber": "18921",
+    "addr:street": "Norwalk Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Chung Dam",
+    "panoramax": "fbf79481-2bf5-4031-a0b6-ea6f61001a04"
+  }
+},
+{
+  "type": "node",
+  "id": 12952775300,
+  "lat": 34.2360220,
+  "lon": -118.5349840,
+  "tags": {
+    "addr:city": "Northridge",
+    "addr:housenumber": "18431",
+    "addr:postcode": "91325",
+    "addr:state": "CA",
+    "addr:street": "Nordhoff Street",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "brand": "bb.q Chicken",
+    "brand:wikidata": "Q87716489",
+    "check_date": "2025-06-25",
+    "cuisine": "korean;chicken",
+    "delivery": "yes",
+    "name": "bb.q Chicken",
+    "opening_hours": "11:00-21:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1 818-280-3811",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://bbqchicken.com",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12965528854,
+  "lat": 33.8583017,
+  "lon": -118.0707573,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean"
+  }
+},
+{
+  "type": "node",
+  "id": 12965528855,
+  "lat": 33.8582032,
+  "lon": -118.0701216,
+  "tags": {
+    "addr:housenumber": "12300",
+    "addr:street": "South Street",
+    "amenity": "restaurant",
+    "cuisine": "korean;barbecue",
+    "name": "Ziggle BBQ"
+  }
+},
+{
+  "type": "node",
+  "id": 12995553576,
+  "lat": 34.1042406,
+  "lon": -118.0875848,
+  "tags": {
+    "addr:city": "San Gabriel",
+    "addr:housenumber": "927",
+    "addr:postcode": "91776",
+    "addr:state": "CA",
+    "addr:street": "East Las Tunas Drive",
+    "addr:unit": "J",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "check_date": "2026-03-24",
+    "check_date:smoking": "2025-12-27",
+    "contact:yelp": "https://www.yelp.com/biz/sun-nong-dan-san-gabriel-3",
+    "cuisine": "korean",
+    "delivery": "yes",
+    "dog": "no",
+    "handwashing:soap": "yes",
+    "indoor_seating": "yes",
+    "kids_area": "no",
+    "level": "0",
+    "name": "Sun Nong Dan",
+    "opening_hours": "24/7",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-626-286-1234",
+    "reservation": "no",
+    "smoking": "no",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:disposal": "flush",
+    "toilets:fee": "no",
+    "toilets:gender_segregated": "yes",
+    "toilets:hands_drying": "paper_towel",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes",
+    "toilets:wheelchair:grab_rail:behind": "yes",
+    "toilets:wheelchair:grab_rail:foldable:left": "no",
+    "toilets:wheelchair:grab_rail:left": "yes",
+    "toilets:wheelchair:grab_rail:right": "no",
+    "website": "https://sunnongdanusa.com/",
+    "website:menu": "https://sunnongdanusa.com/menu-with-tabs/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13007253707,
+  "lat": 34.0804846,
+  "lon": -118.0932321,
+  "tags": {
+    "addr:housenumber": "529",
+    "addr:street": "East Valley Boulevard",
+    "addr:unit": "128",
+    "amenity": "restaurant",
+    "check_date": "2025-07-17",
+    "contact:yelp": "https://www.yelp.com/biz/a-ri-rang-tofu-house-san-gabriel",
+    "cuisine": "korean",
+    "email": "arirangtofuhouse@hotmail.com",
+    "level": "0",
+    "name": "A Ri Rang Tofu House",
+    "opening_hours": "11:00-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1 626-288-6069",
+    "website": "https://arirangtofuhouse.com/",
+    "website:menu": "https://arirangtofuhouse.com/menu"
+  }
+},
+{
+  "type": "node",
+  "id": 13027395701,
+  "lat": 33.8472005,
+  "lon": -118.0466253,
+  "tags": {
+    "addr:housenumber": "4961",
+    "addr:postcode": "90623",
+    "addr:street": "La Palma Avenue",
+    "amenity": "restaurant",
+    "cuisine": "asian;korean",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Soy Tofu",
+    "opening_hours": "Mo-Sa 11:00-21:00",
+    "phone": "+1-562-924-8289",
+    "website:menu": "https://yelp.to/Y9iUyXkvNP"
+  }
+},
+{
+  "type": "node",
+  "id": 13027412201,
+  "lat": 33.8472522,
+  "lon": -118.0471186,
+  "tags": {
+    "addr:housenumber": "4951",
+    "addr:postcode": "90623",
+    "addr:street": "La Palma Avenue",
+    "amenity": "restaurant",
+    "cuisine": "chinese;korean;noodles;oriental",
+    "name": "Kyodong Noodle",
+    "opening_hours": "Mo-Su 10:30-20:00",
+    "phone": "+1-562-860-5522"
+  }
+},
+{
+  "type": "node",
+  "id": 13027424301,
+  "lat": 33.8468550,
+  "lon": -118.0477743,
+  "tags": {
+    "addr:housenumber": "4883",
+    "addr:postcode": "90623",
+    "addr:street": "La Palma Avenue",
+    "amenity": "restaurant",
+    "cuisine": "korean;noodles",
+    "name": "Jongro Kimbap (종로김밥)",
+    "opening_hours": "Mo-Sa 10:00-20:00",
+    "phone": "+1-562-809-0769"
+  }
+},
+{
+  "type": "node",
+  "id": 13027427501,
+  "lat": 33.8467166,
+  "lon": -118.0477694,
+  "tags": {
+    "addr:housenumber": "4877",
+    "addr:postcode": "90623",
+    "addr:street": "La Palma Avenue",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Jangmo Jip Restaurant",
+    "opening_hours": "Tu-Su 07:00-21:00",
+    "phone": "+1-562-402-7212"
+  }
+},
+{
+  "type": "node",
+  "id": 13061998540,
+  "lat": 33.9980888,
+  "lon": -117.8556976,
+  "tags": {
+    "addr:housenumber": "20627 Ste2A",
+    "addr:postcode": "91789",
+    "addr:street": "Golden Springs Dr",
+    "amenity": "fast_food",
+    "check_date": "2026-09-06",
+    "check_date:opening_hours": "2026-09-06",
+    "contact:instagram": "atoyubu",
+    "cuisine": "korean",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "Atoyubu",
+    "opening_hours": "Mo-Su 11:00-14:00, 16:00-20:00",
+    "phone": "+1-909-274-7190",
+    "self_service": "partially",
+    "website": "https://atoyubu.toast.site/",
+    "website:menu": "https://atoyubu.toast.site/menu"
+  }
+},
+{
+  "type": "node",
+  "id": 13062023974,
+  "lat": 33.9983101,
+  "lon": -117.8437347,
+  "tags": {
+    "addr:housenumber": "1119",
+    "addr:street": "S Brea Canyon Rd",
+    "amenity": "restaurant",
+    "name": "Seoul BBQ",
+    "opening_hours": "Mo-Sa 12:00-22:00; Su 12:00-21:00",
+    "phone": "+1-909-480-0084"
+  }
+},
+{
+  "type": "node",
+  "id": 13062103964,
+  "lat": 33.7897738,
+  "lon": -118.3142746,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "korean;chicken",
+    "drive_through": "no",
+    "kids_area": "no",
+    "name": "Thanks Chicken"
+  }
+},
+{
+  "type": "node",
+  "id": 13073495869,
+  "lat": 34.0626516,
+  "lon": -118.2982650,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3435",
+    "addr:postcode": "90010",
+    "addr:state": "CA",
+    "addr:street": "Wilshire Boulevard",
+    "addr:unit": "123",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:instagram": "https://www.instagram.com/moohan.kbbq/",
+    "contact:yelp": "https://www.yelp.com/biz/moohan-korean-bbq-los-angeles",
+    "cuisine": "korean",
+    "email": "hello@moohankbbq.com",
+    "name": "Moohan KBBQ",
+    "opening_hours": "Mo-Fr 17:00-02:00; Sa 11:00-02:00; Su 11:00-24:00",
+    "phone": "+1-213-232-1136",
+    "was:name": "Gwang Yang BBQ",
+    "website": "https://www.moohankbbq.com/",
+    "website:menu": "https://cdn.qr-code-generator.com/account8978638/47923530_98.pdf?Expires=1755413885&Signature=mOjyN7Ixf~BueVBNA-I-S7Jp5cVyEP5jo~AzNX9Rk8-uXRl8jQWsdn6gtnVowOvdHwXt0OroL-OvezZrY8rQNfo5RDR7aXDa8RKa2wlLq-IZ~CwkdusAoat5BTyLCFxKw900gErbLUMHyLF6Qfg1iYNvRNRJpp52u"
+  }
+},
+{
+  "type": "node",
+  "id": 13073514111,
+  "lat": 34.0631950,
+  "lon": -118.2975212,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2025-08-15",
+    "contact:yelp": "https://www.yelp.com/biz/sorimmara-los-angeles",
+    "cuisine": "korean",
+    "name": "Sorimmara"
+  }
+},
+{
+  "type": "node",
+  "id": 13091916304,
+  "lat": 34.0426609,
+  "lon": -118.2507407,
+  "tags": {
+    "addr:housenumber": "718",
+    "addr:postcode": "90014",
+    "addr:street": "South Los Angeles Street",
+    "amenity": "restaurant",
+    "contact:instagram": "eatbrokenmouth",
+    "cuisine": "american;asian;korean",
+    "email": "hello@eatbrokenmouth.com",
+    "name": "BROKEN MOUTH",
+    "opening_hours": "Tu-Sa 12:00-18:00",
+    "phone": "+1 213-418-9588",
+    "website": "https://www.eatbrokenmouth.com",
+    "website:menu": "https://www.eatbrokenmouth.com/ourmenu"
+  }
+},
+{
+  "type": "node",
+  "id": 13201742413,
+  "lat": 34.1684974,
+  "lon": -118.2290547,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "1500",
+    "addr:street": "North Verdugo Road",
+    "addr:unit": "B1",
+    "amenity": "restaurant",
+    "check_date": "2025-10-07",
+    "cuisine": "japanese;korean",
+    "level": "0",
+    "name": "Muzen Katsu Curry",
+    "opening_hours": "11:00-21:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1 818-484-7622",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13208151102,
+  "lat": 34.0244732,
+  "lon": -118.3963241,
+  "tags": {
+    "addr:housenumber": "9626",
+    "addr:postcode": "90232",
+    "addr:street": "Venice Boulevard",
+    "amenity": "restaurant",
+    "contact:facebook": "61553858877739",
+    "contact:instagram": "blossombitesandeatery",
+    "cuisine": "japanese;korean",
+    "email": "info@blossombitesandeatery.com",
+    "name": "Blossom Bites & Eatery",
+    "opening_hours": "Fr-Su 17:00-21:00",
+    "website": "http://www.blossombitesandeatery.com",
+    "website:menu": "https://www.blossombitesandeatery.com/s/order?location=LMYZH1QQM4ZZP#most-popular"
+  }
+},
+{
+  "type": "node",
+  "id": 13248284409,
+  "lat": 33.9166398,
+  "lon": -118.3878236,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "japanese;korean",
+    "drive_through": "no",
+    "kids_area": "no",
+    "name": "Katsu Bar",
+    "note": "Shared space with Pokebar. Both names are on the new sign.",
+    "panoramax": "362f16a0-b815-4154-b4db-51a6b927a86d",
+    "phone": "+1-310-616-3130",
+    "takeaway": "yes",
+    "website": "https://www.ilovekatsubar.com/locations/el-segundo-located-inside-poke-bar"
+  }
+},
+{
+  "type": "node",
+  "id": 13296187455,
+  "lat": 34.1338052,
+  "lon": -118.0522943,
+  "tags": {
+    "addr:city": "Arcadia",
+    "addr:floor": "2",
+    "addr:housenumber": "400",
+    "addr:postcode": "91007",
+    "addr:state": "CA",
+    "addr:street": "South Baldwin Avenue",
+    "addr:unit": "2315",
+    "amenity": "restaurant",
+    "check_date": "2026-01-30",
+    "contact:yelp": "https://www.yelp.com/biz/hodori-bbq-arcadia",
+    "cuisine": "korean",
+    "full_name": "Hodori BBQ & Korean Cuisine",
+    "level": "1",
+    "name": "Hodori BBQ",
+    "phone": "+1-626-317-5046; +1-626-317-5075",
+    "website": "https://hodoricabbq.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13322599701,
+  "lat": 33.7911347,
+  "lon": -118.3198466,
+  "tags": {
+    "addr:housenumber": "25600",
+    "addr:postcode": "90717",
+    "addr:street": "Narbonne Avenue",
+    "amenity": "restaurant",
+    "contact:facebook": "bitesandbashes",
+    "contact:instagram": "bitesandbashes",
+    "cuisine": "american;asian;breakfast;korean;sandwich",
+    "email": "info@bitesandbashes.com",
+    "name": "Bites & Bashes Cafe",
+    "opening_hours": "Tu-Sa 08:00-15:00; Su 08:00-14:00",
+    "phone": "+1 310-530-1030",
+    "website": "https://bitesandbashes.com/cafepage",
+    "website:menu": "https://bitesandbashes.com/cafemenu"
+  }
+},
+{
+  "type": "node",
+  "id": 13326968007,
+  "lat": 33.8840344,
+  "lon": -117.9942448,
+  "tags": {
+    "addr:city": "Buena Park",
+    "addr:housenumber": "5260",
+    "addr:postcode": "90621",
+    "addr:state": "CA",
+    "addr:street": "Beach Boulevard",
+    "addr:unit": "B",
+    "amenity": "restaurant",
+    "brand": "bb.q Chicken",
+    "brand:wikidata": "Q87716489",
+    "check_date": "2025-11-23",
+    "cuisine": "korean;chicken",
+    "name": "bb.q Chicken",
+    "website": "https://bbqchicken.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13326968009,
+  "lat": 33.8848296,
+  "lon": -117.9942557,
+  "tags": {
+    "addr:housenumber": "5246",
+    "addr:street": "Beach Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2025-11-23",
+    "contact:instagram": "https://www.instagram.com/yoosplace",
+    "cuisine": "korean",
+    "name": "Yoo's Place",
+    "phone": "+1-714-994-2233",
+    "website": "https://www.yoosplace.net"
+  }
+},
+{
+  "type": "node",
+  "id": 13327013966,
+  "lat": 33.8851034,
+  "lon": -117.9942626,
+  "tags": {
+    "addr:housenumber": "5240",
+    "amenity": "restaurant",
+    "check_date": "2025-11-23",
+    "cuisine": "korean"
+  }
+},
+{
+  "type": "node",
+  "id": 13327176362,
+  "lat": 33.8964978,
+  "lon": -117.9862599,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2025-11-23",
+    "cuisine": "korean"
+  }
+},
+{
+  "type": "node",
+  "id": 13358593931,
+  "lat": 33.8856572,
+  "lon": -117.9965645,
+  "tags": {
+    "addr:city": "Buena Park",
+    "addr:housenumber": "5171",
+    "addr:postcode": "90621",
+    "addr:state": "CA",
+    "addr:street": "Beach Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Baekjeong Korean Barbecue",
+    "website": "baekjeongbbq.com"
+  }
+},
+{
+  "type": "node",
+  "id": 13399445501,
+  "lat": 33.9971894,
+  "lon": -117.8547696,
+  "tags": {
+    "addr:housenumber": "20627",
+    "addr:postcode": "91789",
+    "addr:street": "Golden Springs Drive",
+    "amenity": "restaurant",
+    "contact:facebook": "bbqstopdb",
+    "contact:instagram": "bbqstop",
+    "cuisine": "barbecue;korean",
+    "email": "bbqstopinc@gmail.com",
+    "level": "0",
+    "name": "BBQ Stop AYCE",
+    "phone": "+1-909-594-7755",
+    "self_service": "no",
+    "website": "https://www.bbqstop.com/",
+    "website:menu": "https://www.bbqstop.com/dine-in-menu"
+  }
+},
+{
+  "type": "node",
+  "id": 13409986776,
+  "lat": 34.0540633,
+  "lon": -118.3207804,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "4001",
+    "addr:postcode": "90019",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-06-13",
+    "contact:yelp": "https://www.yelp.com/biz/soban-los-angeles-2",
+    "cuisine": "korean",
+    "name": "Soban",
+    "name:en": "Soban",
+    "name:ko": "소반",
+    "opening_hours": "Mo,We-Su 11:00-20:45; Tu off",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1 323-936-9106",
+    "reservation": "yes",
+    "website": "https://www.sobanla.com",
+    "website:menu": "https://www.sobanla.com/menu",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409986777,
+  "lat": 34.0540911,
+  "lon": -118.3204352,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "954",
+    "addr:postcode": "90019",
+    "addr:state": "CA",
+    "addr:street": "South Norton Avenue",
+    "amenity": "restaurant",
+    "check_date": "2026-06-13",
+    "contact:yelp": "https://www.yelp.com/biz/butnal-los-angeles",
+    "cuisine": "korean",
+    "name": "Butnal",
+    "name:en": "벚날"
+  }
+},
+{
+  "type": "node",
+  "id": 13411542330,
+  "lat": 34.1040623,
+  "lon": -118.0875827,
+  "tags": {
+    "addr:city": "San Gabriel",
+    "addr:housenumber": "927",
+    "addr:postcode": "91776",
+    "addr:state": "CA",
+    "addr:street": "East Las Tunas Drive",
+    "addr:unit": "G",
+    "amenity": "cafe",
+    "check_date": "2026-03-24",
+    "contact:yelp": "https://www.yelp.com/biz/smoking-tiger-coffee-lab-san-gabriel",
+    "cuisine": "korean;coffee_shop",
+    "level": "0",
+    "name": "Smoking Tiger Coffee Lab",
+    "opening_hours": "07:00-20:00",
+    "payment:cash": "no",
+    "phone": "+1-626-782-7007",
+    "website": "https://www.smokingtiger.com"
+  }
+},
+{
+  "type": "node",
+  "id": 13412678313,
+  "lat": 33.8570948,
+  "lon": -118.0927109,
+  "tags": {
+    "addr:city": "Cerritos",
+    "addr:postcode": "90701",
+    "addr:state": "CA",
+    "addr:street": "South Street",
+    "amenity": "restaurant",
+    "brand": "bb.q Chicken",
+    "brand:wikidata": "Q87716489",
+    "check_date": "2025-12-27",
+    "cuisine": "korean;chicken",
+    "name": "bb.q Chicken",
+    "opening_hours": "Mo-Su 11:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13422785276,
+  "lat": 34.1462240,
+  "lon": -118.1077684,
+  "tags": {
+    "addr:city": "Pasadena",
+    "addr:housenumber": "2063",
+    "addr:postcode": "91107",
+    "addr:state": "CA",
+    "addr:street": "East Colorado Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-01-01",
+    "contact:instagram": "https://www.instagram.com/chris.kbbq",
+    "contact:yelp": "https://www.yelp.com/biz/chris-korean-bbq-pasadena",
+    "cuisine": "korean",
+    "name": "Chris Korean BBQ",
+    "opening_hours": "11:30-22:00",
+    "phone": "+1 626-796-9604",
+    "website": "https://www.chriskbbq.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13571508438,
+  "lat": 34.0530683,
+  "lon": -118.2942914,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "2789",
+    "addr:postcode": "90006",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "addr:unit": "104",
+    "amenity": "restaurant",
+    "check_date": "2026-06-14",
+    "contact:instagram": "https://www.instagram.com/mspoon_la/",
+    "contact:yelp": "https://www.yelp.com/biz/m-spoon-los-angeles",
+    "cuisine": "korean",
+    "currency:XBT": "yes",
+    "delivery": "yes",
+    "level": "0",
+    "name": "M Spoon",
+    "opening_hours": "Mo-Su 09:00-20:00",
+    "payment:lightning": "yes",
+    "payment:lightning:operator": "square",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "phone": "+1-213-460-3535",
+    "takeaway": "yes",
+    "website": "https://mspoon-la.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13667635908,
+  "lat": 34.0581567,
+  "lon": -118.2940105,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Yi Pin Chuan Lamb Kebab"
+  }
+},
+{
+  "type": "node",
+  "id": 13667635909,
+  "lat": 34.0581578,
+  "lon": -118.2939354,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean"
+  }
+},
+{
+  "type": "node",
+  "id": 13667635910,
+  "lat": 34.0581644,
+  "lon": -118.2938683,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Phò BYOB"
+  }
+},
+{
+  "type": "node",
+  "id": 13712419101,
+  "lat": 34.0764212,
+  "lon": -118.3055372,
+  "tags": {
+    "addr:housenumber": "4451",
+    "addr:postcode": "90004",
+    "addr:street": "Beverly Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-04-06",
+    "check_date:opening_hours": "2026-04-06",
+    "cuisine": "korean",
+    "name": "Sulga House of Beef Bone Soup",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+1 323-741-0669",
+    "self_service": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13712429601,
+  "lat": 34.0624990,
+  "lon": -118.2975020,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3377",
+    "addr:postcode": "90010",
+    "addr:state": "CA",
+    "addr:street": "Wilshire Boulevard",
+    "addr:unit": "112",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "check_date:opening_hours": "2026-04-06",
+    "contact:yelp": "https://www.yelp.com/biz/damsot-los-angeles-2",
+    "cuisine": "korean",
+    "name": "Damsot",
+    "opening_hours": "Su-Mo, We-Th 11:00-15:00, 17:00-21:00; Fr-Sa 11:00-15:00, 17:00-21:30",
+    "outdoor_seating": "no",
+    "phone": "+1 213-219-8757",
+    "self_service": "no",
+    "was:name": "Wako Donkatsu"
+  }
+},
+{
+  "type": "node",
+  "id": 13712456101,
+  "lat": 34.0575001,
+  "lon": -118.3075757,
+  "tags": {
+    "addr:housenumber": "3526",
+    "addr:postcode": "90005",
+    "addr:street": "West 8th Street",
+    "amenity": "restaurant",
+    "check_date": "2026-04-06",
+    "check_date:opening_hours": "2026-04-06",
+    "cuisine": "korean",
+    "name": "Tofu Chon",
+    "opening_hours": "Mo-Su 11:00-23:30",
+    "outdoor_seating": "no",
+    "phone": "+1 213-505-9577"
+  }
+},
+{
+  "type": "node",
+  "id": 13772978972,
+  "lat": 33.8951279,
+  "lon": -117.9864140,
+  "tags": {
+    "addr:city": "Buena Park",
+    "addr:housenumber": "4520",
+    "addr:postcode": "90621",
+    "addr:state": "CA",
+    "addr:street": "Beach Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Damee Korean Restaurant",
+    "opening_hours": "Mo-Su 11:00-21:00",
+    "phone": "+1-714-735-8904",
+    "website": "https://www.dameerestaurant.com"
+  }
+},
+{
+  "type": "node",
+  "id": 13772989495,
+  "lat": 33.8952539,
+  "lon": -117.9874519,
+  "tags": {
+    "addr:city": "Buena Park",
+    "addr:housenumber": "4546",
+    "addr:postcode": "90621",
+    "addr:state": "CA",
+    "addr:street": "Beach Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Jang Mo Restaurant",
+    "opening_hours": "Mo-Su 07:00-21:00",
+    "phone": "+1-714-228-0767"
+  }
+},
+{
+  "type": "node",
+  "id": 13805346101,
+  "lat": 33.8912203,
+  "lon": -118.3088714,
+  "tags": {
+    "addr:housenumber": "15420",
+    "addr:postcode": "90249",
+    "addr:street": "South Western Avenue",
+    "amenity": "restaurant",
+    "check_date": "2026-05-06",
+    "check_date:opening_hours": "2026-05-06",
+    "cuisine": "chicken;korean",
+    "name": "CM Chicken",
+    "opening_hours": "Mo-Th 11:00-15:00, 17:00-17:00; Fr-Sa 11:00-02:00; Su 12:00-00:00",
+    "outdoor_seating": "no",
+    "phone": "+1 310-817-5853",
+    "self_service": "yes",
+    "website": "https://www.cmchickengardenaca.com"
+  }
+},
+{
+  "type": "node",
+  "id": 13931797268,
+  "lat": 34.1318361,
+  "lon": -118.0657601,
+  "tags": {
+    "addr:city": "Arcadia",
+    "addr:housenumber": "1101",
+    "addr:postcode": "91007",
+    "addr:state": "CA",
+    "addr:street": "West Huntington Drive",
+    "amenity": "restaurant",
+    "branch": "H-Mart Arcadia",
+    "brand": "bb.q Chicken",
+    "brand:wikidata": "Q87716489",
+    "check_date": "2026-06-12",
+    "contact:yelp": "https://www.yelp.com/biz/bb-q-chicken-h-mart-arcadia-arcadia-5",
+    "cuisine": "korean;chicken",
+    "delivery": "yes",
+    "level": "0",
+    "name": "bb.q Chicken",
+    "opening_hours": "11:00-19:30",
+    "outdoor_seating": "no",
+    "phone": "+1 626-538-4008",
+    "takeaway": "yes",
+    "website": "https://bbqchicken.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13931819773,
+  "lat": 34.1318389,
+  "lon": -118.0658514,
+  "tags": {
+    "addr:city": "Arcadia",
+    "addr:housenumber": "1101",
+    "addr:postcode": "91007",
+    "addr:state": "CA",
+    "addr:street": "West Huntington Drive",
+    "amenity": "restaurant",
+    "check_date": "2026-06-12",
+    "contact:yelp": "https://www.yelp.com/biz/ojuk-arcadia-3",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Ojuk"
+  }
+},
+{
+  "type": "node",
+  "id": 13938277941,
+  "lat": 34.0518540,
+  "lon": -118.2930773,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "2740",
+    "addr:postcode": "90006",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "amenity": "restaurant",
+    "check_date": "2026-06-14",
+    "contact:yelp": "https://www.yelp.com/biz/yanusa-los-angeles",
+    "cuisine": "japanese;korean",
+    "name": "Yanusa",
+    "name:ko": "열차우동",
+    "opening_hours": "10:00-20:00",
+    "phone": "+1-213-383-9919"
+  }
+},
+{
+  "type": "node",
+  "id": 13938277947,
+  "lat": 34.0529108,
+  "lon": -118.3007272,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3003",
+    "addr:postcode": "90006",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "addr:unit": "103",
+    "amenity": "restaurant",
+    "check_date": "2026-06-14",
+    "contact:yelp": "https://www.yelp.com/biz/my-donkatsu-los-angeles",
+    "cuisine": "japanese;korean",
+    "level": "0",
+    "name": "My Donkatsu"
+  }
+},
+{
+  "type": "node",
+  "id": 13951260234,
+  "lat": 33.8771508,
+  "lon": -117.7531081,
+  "tags": {
+    "addr:city": "Yorba Linda",
+    "addr:housenumber": "21480",
+    "addr:postcode": "92887",
+    "addr:state": "CA",
+    "addr:street": "Yorba Linda Boulevard",
+    "addr:unit": "D",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Jincook"
+  }
+},
+{
+  "type": "node",
+  "id": 13954715192,
+  "lat": 34.0637475,
+  "lon": -118.2964652,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3429",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:facebook": "https://www.facebook.com/Woo-Hyang-Woo-LA-114343240106205/",
+    "contact:instagram": "https://www.instagram.com/woohyangwoola",
+    "contact:yelp": "https://www.yelp.com/biz/woo-hyang-woo-los-angeles-2",
+    "cuisine": "korean",
+    "name": "Woo Hyang Woo",
+    "phone": "+1 213-315-5080",
+    "website": "https://www.hyungroupusa.com/woohyangwoo-about",
+    "website:menu": "https://www.hyungroupusa.com/whw-menu"
+  }
+},
+{
+  "type": "node",
+  "id": 13954812406,
+  "lat": 34.0620463,
+  "lon": -118.3143382,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Arado"
+  }
+},
+{
+  "type": "node",
+  "id": 13954825914,
+  "lat": 34.0639930,
+  "lon": -118.2969116,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3465",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "addr:unit": "90-100",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:instagram": "https://www.instagram.com/danbi.ktown",
+    "contact:yelp": "https://www.yelp.com/biz/danbi-los-angeles-2",
+    "cuisine": "korean",
+    "email": "reservations@danbi-la.com",
+    "name": "Danbi",
+    "opening_hours": "Mo off; Tu-Th,Su 17:00-22:00; Fr-Sa 17:00-23:00",
+    "phone": "+1 818-527-2213",
+    "reservation": "yes",
+    "website": "https://danbi-la.com/",
+    "website:menu": "https://danbi-la.com/menu"
+  }
+},
+{
+  "type": "node",
+  "id": 13955080238,
+  "lat": 34.0631186,
+  "lon": -118.2970945,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "contact:yelp": "https://www.yelp.com/biz/yeogiyo-los-angeles-4",
+    "cuisine": "korean",
+    "name": "Yeogiyo",
+    "opening_hours": "11:00-23:00",
+    "website": "https://yeogiyo.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 13955684778,
+  "lat": 34.0638447,
+  "lon": -118.3058773,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3815",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "check_date": "2026-06-21",
+    "contact:facebook": "https://www.facebook.com/NandarangLA/",
+    "contact:instagram": "https://www.instagram.com/NandarangLA",
+    "contact:tiktok": "https://www.tiktok.com/@nandarangla",
+    "contact:yelp": "https://www.yelp.com/biz/nandarang-restaurant-and-bar-los-angeles",
+    "cuisine": "korean",
+    "email": "nandarang@gmail.com",
+    "level": "0",
+    "name": "Nandarang",
+    "opening_hours": "11:00-02:00",
+    "phone": "+1 213-388-8513",
+    "website": "https://nandarangla.com/",
+    "website:menu": "https://nandarangla.com/menu.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 13955684780,
+  "lat": 34.0638393,
+  "lon": -118.3057824,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3807",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "fast_food",
+    "branch": "LA K-Town",
+    "check_date": "2026-06-21",
+    "contact:yelp": "https://www.yelp.com/biz/jaws-topokki-los-angeles",
+    "cuisine": "korean",
+    "delivery": "yes",
+    "drive_through": "no",
+    "level": "0",
+    "name": "Jaws Topokki",
+    "opening_hours": "11:00-22:00",
+    "phone": "+1-562-677-4259",
+    "takeaway": "yes",
+    "website": "https://www.jawstopokki.com/",
+    "website:menu": "https://www.jawstopokki.com/menu"
+  }
+},
+{
+  "type": "node",
+  "id": 13969670612,
+  "lat": 34.0628718,
+  "lon": -118.2977264,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3470",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "addr:unit": "11",
+    "amenity": "restaurant",
+    "check_date": "2026-06-27",
+    "contact:yelp": "https://www.yelp.com/biz/paiks-noodle-hong-kong-ban-jum-0410-los-angeles",
+    "cuisine": "noodle;chinese;korean",
+    "level": "0",
+    "name": "Paik's Noodle",
+    "phone": "+1-213-915-0224",
+    "website": "https://www.paiksnoodleus.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13969670694,
+  "lat": 34.0629108,
+  "lon": -118.2975183,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3470",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "check_date": "2026-06-27",
+    "contact:yelp": "https://www.yelp.com/biz/sea-story-los-angeles",
+    "cuisine": "seafood;korean",
+    "level": "0",
+    "name": "Sea Story"
+  }
+},
+{
+  "type": "node",
+  "id": 13969678969,
+  "lat": 34.0630205,
+  "lon": -118.2975167,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3470",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "addr:unit": "6",
+    "amenity": "restaurant",
+    "check_date": "2026-06-27",
+    "contact:yelp": "https://www.yelp.com/biz/yangji-gamjatang-los-angeles-2",
+    "cuisine": "korean;soup",
+    "level": "0",
+    "name": "Yangji Gamjatang"
+  }
+},
+{
+  "type": "node",
+  "id": 13971647980,
+  "lat": 34.2736057,
+  "lon": -118.5554456,
+  "tags": {
+    "addr:city": "Porter Ranch",
+    "addr:housenumber": "19346",
+    "addr:postcode": "91326",
+    "addr:state": "CA",
+    "addr:street": "Rinaldi Street",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Jincook"
+  }
+},
+{
+  "type": "node",
+  "id": 13974057138,
+  "lat": 34.2570179,
+  "lon": -118.5350847,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Shik Do Rak"
+  }
+},
+{
+  "type": "node",
+  "id": 13998609794,
+  "lat": 33.7275671,
+  "lon": -117.9555590,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "Bonchon Chicken",
+    "brand:wikidata": "Q4941248",
+    "check_date": "2026-07-08",
+    "cuisine": "chicken;korean;sushi",
+    "name": "Bonchon Chicken"
+  }
+},
+{
+  "type": "node",
+  "id": 14003780429,
+  "lat": 34.0922103,
+  "lon": -118.1325767,
+  "tags": {
+    "addr:city": "Alhambra",
+    "addr:housenumber": "560",
+    "addr:postcode": "91801",
+    "addr:state": "CA",
+    "addr:street": "West Main Street",
+    "addr:unit": "A",
+    "amenity": "restaurant",
+    "branch": "Alhambra",
+    "brand": "bb.q Chicken",
+    "brand:wikidata": "Q87716489",
+    "check_date": "2026-07-10",
+    "contact:yelp": "https://www.yelp.com/biz/bb-q-chicken-alhambra-alhambra-6",
+    "cuisine": "korean;chicken",
+    "delivery": "yes",
+    "level": "0",
+    "name": "bb.q Chicken",
+    "opening_hours": "11:00-22:00",
+    "phone": "+1 626-703-4626",
+    "takeaway": "yes",
+    "was:name": "Tea Station",
+    "website": "https://bbqchicken.com/",
+    "website:menu": "https://bbqchicken.com/menu/"
+  }
+},
+{
+  "type": "node",
+  "id": 14095740401,
+  "lat": 33.8591851,
+  "lon": -118.0369585,
+  "tags": {
+    "addr:housenumber": "5511",
+    "addr:postcode": "90623",
+    "addr:street": "Orangethorpe Avenue",
+    "amenity": "restaurant",
+    "cuisine": "chicken;korean",
+    "name": "Koko Chicken & BBQ",
+    "opening_hours": "Mo-Tu 16:00-00:00; We-Th 11:30-01:00; Fr-Sa 11:30-02:00; Su 11:30-00:00",
+    "phone": "+1-714-868-5656",
+    "website": "http://kokochickenbbq.com"
+  }
+},
+{
+  "type": "node",
+  "id": 14096168801,
+  "lat": 34.0558129,
+  "lon": -118.2918344,
+  "tags": {
+    "addr:housenumber": "901",
+    "addr:postcode": "90006",
+    "addr:street": "South Vermont Avenue",
+    "amenity": "restaurant",
+    "check_date": "2026-08-15",
+    "cuisine": "korean",
+    "name": "J BBQ"
+  }
+},
+{
+  "type": "node",
+  "id": 14107194501,
+  "lat": 33.9841727,
+  "lon": -117.7144854,
+  "tags": {
+    "addr:city": "Chino Hills",
+    "addr:housenumber": "4200",
+    "addr:postcode": "91709",
+    "addr:state": "CA",
+    "addr:street": "Chino Hills Parkway",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Paik's Noodle"
+  }
+},
+{
+  "type": "node",
+  "id": 14135231601,
+  "lat": 33.8913444,
+  "lon": -118.3088601,
+  "tags": {
+    "addr:housenumber": "15420",
+    "addr:postcode": "90249",
+    "addr:street": "South Western Avenue",
+    "amenity": "restaurant",
+    "check_date": "2026-08-30",
+    "check_date:opening_hours": "2026-08-30",
+    "cuisine": "korean",
+    "name": "Yuk Dae Jang",
+    "opening_hours": "Mo-Su 11:00-21:00",
+    "outdoor_seating": "no",
+    "phone": "+1 310-400-7743",
+    "self_service": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 100004824,
+  "center": {
+    "lat": 33.9940900,
+    "lon": -117.9235202
+  },
+  "tags": {
+    "addr:city": "Industry",
+    "addr:housenumber": "17500",
+    "addr:postcode": "91748",
+    "addr:state": "CA",
+    "addr:street": "Albatross Road",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "korean;barbecue;hotpot",
+    "ele": "141.8",
+    "height": "8.4",
+    "lacounty:ain": "8265068001",
+    "lacounty:bld_id": "584873820163",
+    "name": "KPot",
+    "outdoor_seating": "no",
+    "source": "bing_imagery_0.06m_200801",
+    "start_date": "1981",
+    "takeaway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 133173972,
+  "center": {
+    "lat": 34.4272796,
+    "lon": -118.5350946
+  },
+  "tags": {
+    "addr:city": "Saugus",
+    "addr:housenumber": "26524",
+    "addr:postcode": "91350",
+    "addr:street": "Bouquet Canyon Road",
+    "all_you_can_eat": "yes",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "korean",
+    "name": "Gogi House",
+    "phone": "+1-661-263-0048",
+    "website": "www.gogihouse.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 133637958,
+  "center": {
+    "lat": 34.1918929,
+    "lon": -118.6239392
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Ayce Gogi Korean BBQ & Pinball"
+  }
+},
+{
+  "type": "way",
+  "id": 186386967,
+  "center": {
+    "lat": 33.8591830,
+    "lon": -117.9238943
+  },
+  "tags": {
+    "addr:city": "Fullerton",
+    "addr:housenumber": "1300",
+    "addr:postcode": "92832",
+    "addr:state": "CA",
+    "addr:street": "South Harbor Boulevard",
+    "amenity": "restaurant",
+    "branch": "House",
+    "brand": "Gen Korean BBQ",
+    "brand:wikidata": "Q124294849",
+    "building": "retail",
+    "building:levels": "1",
+    "cuisine": "korean;barbecue",
+    "name": "Gen Korean BBQ",
+    "opening_hours": "Mo-Su 11:30-23:30"
+  }
+},
+{
+  "type": "way",
+  "id": 228737773,
+  "center": {
+    "lat": 33.7410314,
+    "lon": -117.8197279
+  },
+  "tags": {
+    "addr:city": "Tustin",
+    "addr:housenumber": "13741",
+    "addr:postcode": "92780",
+    "addr:state": "CA",
+    "addr:street": "Newport Avenue",
+    "amenity": "restaurant",
+    "brand": "Gen Korean BBQ",
+    "brand:wikidata": "Q124294849",
+    "building": "retail",
+    "building:levels": "1",
+    "cuisine": "korean;barbecue",
+    "indoor_seating": "yes",
+    "name": "Gen Korean BBQ",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 230290302,
+  "center": {
+    "lat": 33.8492713,
+    "lon": -117.9985946
+  },
+  "tags": {
+    "addr:city": "Buena Park",
+    "addr:housenumber": "7801",
+    "addr:postcode": "90620",
+    "addr:state": "CA",
+    "addr:street": "Beach Boulevard",
+    "amenity": "restaurant",
+    "building": "yes",
+    "check_date": "2023-04-17",
+    "construction": "commercial",
+    "cuisine": "korean",
+    "name": "Kyung Bok Kung Korean BBQ",
+    "phone": "+1-714-888-4948",
+    "website": "https://kyungbokkungusa.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 230290312,
+  "center": {
+    "lat": 33.8485989,
+    "lon": -117.9973288
+  },
+  "tags": {
+    "addr:city": "Buena Park",
+    "addr:housenumber": "7880",
+    "addr:postcode": "90620",
+    "addr:state": "CA",
+    "addr:street": "Beach Boulevard",
+    "amenity": "restaurant",
+    "building": "yes",
+    "check_date:opening_hours": "2023-04-17",
+    "cuisine": "korean;barbecue",
+    "name": "Cho Sun Ok",
+    "opening_hours:signed": "no",
+    "outdoor_seating": "no",
+    "phone": "+1-714-522-5559"
+  }
+},
+{
+  "type": "way",
+  "id": 268530993,
+  "center": {
+    "lat": 34.0071792,
+    "lon": -117.8201647
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "commercial",
+    "cuisine": "barbecue;korean",
+    "ele": "235.2",
+    "height": "8.4",
+    "lacounty:ain": "8717025007",
+    "lacounty:bld_id": "616207825066",
+    "name": "Paik's Bonga",
+    "start_date": "1979"
+  }
+},
+{
+  "type": "way",
+  "id": 376135079,
+  "center": {
+    "lat": 34.0528911,
+    "lon": -118.3118813
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "ele": "65.9",
+    "height": "4.6",
+    "lacounty:ain": "5081033011;7440008901",
+    "lacounty:bld_id": "2014102472980000;2014102394670000",
+    "name": "U2 Korean BBQ",
+    "start_date": "1990"
+  }
+},
+{
+  "type": "way",
+  "id": 376144820,
+  "center": {
+    "lat": 34.0522940,
+    "lon": -118.3103956
+  },
+  "tags": {
+    "addr:housenumber": "3330",
+    "addr:street": "West Olympic Boulevard",
+    "amenity": "restaurant",
+    "building": "yes",
+    "check_date": "2025-07-22",
+    "cuisine": "korean",
+    "ele": "64.7",
+    "height": "6.1",
+    "lacounty:ain": "5080002025",
+    "lacounty:bld_id": "467632841587",
+    "name": "Chosun Galbee",
+    "phone": "+1-332-734-3330",
+    "start_date": "2000",
+    "website": "https://chosungalbee.com/",
+    "website:menu": "https://chosungalbee.com/menu-dine-in/"
+  }
+},
+{
+  "type": "way",
+  "id": 376144822,
+  "center": {
+    "lat": 34.0527726,
+    "lon": -118.3160922
+  },
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3545",
+    "addr:postcode": "90019",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "amenity": "restaurant",
+    "building": "commercial",
+    "building:levels": "1",
+    "building:units": "1",
+    "check_date": "2026-06-13",
+    "check_date:opening_hours": "2026-05-24",
+    "contact:yelp": "https://www.yelp.com/biz/chung-ki-wa-los-angeles",
+    "cuisine": "korean",
+    "ele": "57.0",
+    "height": "4.4",
+    "lacounty:ain": "5092021001",
+    "lacounty:bld_id": "465921841726",
+    "name": "Chung Ki Wa",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "phone": "+1 323-737-0809",
+    "start_date": "1956"
+  }
+},
+{
+  "type": "way",
+  "id": 378241188,
+  "center": {
+    "lat": 33.7080440,
+    "lon": -117.7837726
+  },
+  "tags": {
+    "addr:city": "Irvine",
+    "addr:housenumber": "14160",
+    "addr:postcode": "92604",
+    "addr:street": "Culver Drive",
+    "amenity": "restaurant",
+    "building": "commercial",
+    "check_date": "2026-04-05",
+    "cuisine": "korean",
+    "name": "Baekjeong Korean BBQ"
+  }
+},
+{
+  "type": "way",
+  "id": 403902695,
+  "center": {
+    "lat": 33.8580853,
+    "lon": -118.0830514
+  },
+  "tags": {
+    "addr:city": "Artesia",
+    "addr:housenumber": "11746",
+    "addr:state": "CA",
+    "addr:street": "South Street",
+    "amenity": "restaurant",
+    "building": "yes",
+    "check_date": "2023-12-31",
+    "cuisine": "korean;barbecue",
+    "ele": "23.9",
+    "height": "8.8",
+    "lacounty:ain": "7039024019",
+    "lacounty:bld_id": "536460770752",
+    "name": "Moo BBQ",
+    "opening_hours": "Mo-Th 17:00-22:00; Fr-Su 16:00-23:00",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-562-924-2882",
+    "start_date": "1993",
+    "takeaway": "yes",
+    "website": "https://www.facebook.com/pg/Moobbqartesia/about/?ref=page_internal"
+  }
+},
+{
+  "type": "way",
+  "id": 407354569,
+  "center": {
+    "lat": 33.8682301,
+    "lon": -118.3095819
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "commercial",
+    "cuisine": "korean",
+    "ele": "18.3",
+    "height": "3.1",
+    "lacounty:ain": "4096016027",
+    "lacounty:bld_id": "467688774579",
+    "name": "Atto 아토",
+    "start_date": "1959"
+  }
+},
+{
+  "type": "way",
+  "id": 412294593,
+  "center": {
+    "lat": 33.8316709,
+    "lon": -118.3153780
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "building:units": "2",
+    "cuisine": "korean",
+    "ele": "31.4",
+    "height": "9.0",
+    "lacounty:ain": "7355023030",
+    "lacounty:bld_id": "465874761249",
+    "name": "92KBBQ AYCE",
+    "start_date": "1924"
+  }
+},
+{
+  "type": "way",
+  "id": 420669052,
+  "center": {
+    "lat": 34.0688329,
+    "lon": -118.2988086
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "commercial",
+    "cuisine": "korean",
+    "ele": "89.1",
+    "height": "9.7",
+    "lacounty:ain": "5502003009",
+    "lacounty:bld_id": "471156847565",
+    "name": "Goobne",
+    "start_date": "1915"
+  }
+},
+{
+  "type": "way",
+  "id": 427274618,
+  "center": {
+    "lat": 34.0621035,
+    "lon": -118.3026677
+  },
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3575",
+    "addr:postcode": "90010",
+    "addr:state": "CA",
+    "addr:street": "Wilshire Boulevard",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "brand": "BCD Tofu House",
+    "brand:wikidata": "Q125537897",
+    "building": "yes",
+    "check_date": "2025-07-22",
+    "cuisine": "korean",
+    "ele": "76.5",
+    "height": "7.0",
+    "lacounty:ain": "5503025013",
+    "lacounty:bld_id": "470005845099",
+    "name": "BCD Tofu House",
+    "opening_hours": "Mo-Th,Su 07:00-03:00; Fr-Sa 07:00-04:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-213-382-6677",
+    "start_date": "1970"
+  }
+},
+{
+  "type": "way",
+  "id": 427274664,
+  "center": {
+    "lat": 34.0633352,
+    "lon": -118.3026063
+  },
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3680",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "building": "retail",
+    "check_date": "2026-06-21",
+    "contact:yelp": "https://www.yelp.com/biz/brothers-bbq-los-angeles-2",
+    "cuisine": "korean;barbecue",
+    "ele": "79.1",
+    "height": "6.1",
+    "lacounty:ain": "5503025006",
+    "lacounty:bld_id": "470013845566",
+    "name": "Brother's Korean BBQ",
+    "start_date": "1971"
+  }
+},
+{
+  "type": "way",
+  "id": 427278381,
+  "center": {
+    "lat": 34.0643387,
+    "lon": -118.3085739
+  },
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "532",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "South Western Avenue",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "building": "yes",
+    "building:units": "2",
+    "cuisine": "american",
+    "delivery": "yes",
+    "ele": "68.0",
+    "height": "3.9",
+    "lacounty:ain": "5503019005",
+    "lacounty:bld_id": "468226845925",
+    "name": "Beer Belly - Koreatown",
+    "opening_hours": "Mo-Tu 17:00-23:00; We-Th 17:00-24:00; Fr 17:00-01:00; Sa 11:30-01:00; Su 11:30-23:00",
+    "phone": "+1-213-387-2337",
+    "start_date": "1946",
+    "takeaway": "yes",
+    "website": "https://www.beerbellyla.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 427290092,
+  "center": {
+    "lat": 34.0564161,
+    "lon": -118.2913365
+  },
+  "tags": {
+    "addr:housenumber": "856",
+    "addr:street": "South Vermont Avenue",
+    "addr:unit": "C",
+    "amenity": "restaurant",
+    "building": "retail",
+    "building:units": "1",
+    "check_date": "2025-07-22",
+    "contact:yelp": "https://www.yelp.com/biz/soowon-galbi-kbbq-restaurant-los-angeles-2",
+    "ele": "71.8",
+    "height": "5.2",
+    "lacounty:ain": "5077024030",
+    "lacounty:bld_id": "473421843043",
+    "name": "Soowon Galbi",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "start_date": "1959"
+  }
+},
+{
+  "type": "way",
+  "id": 427462766,
+  "center": {
+    "lat": 34.0637696,
+    "lon": -118.3107394
+  },
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "4001",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 6th Street",
+    "amenity": "restaurant",
+    "building": "yes",
+    "building:use": "dance_hall",
+    "cuisine": "korean;barbecue",
+    "ele": "69.6",
+    "height": "6.3",
+    "lacounty:ain": "5503017002",
+    "lacounty:bld_id": "467561845735",
+    "name": "Daedo Skidang",
+    "start_date": "1941"
+  }
+},
+{
+  "type": "way",
+  "id": 427818104,
+  "center": {
+    "lat": 34.0526304,
+    "lon": -118.2874768
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "korean",
+    "ele": "77.2",
+    "height": "7.1",
+    "lacounty:ain": "5076004011",
+    "lacounty:bld_id": "474598841667",
+    "name": "Sonagi Korean BBQ",
+    "start_date": "1958"
+  }
+},
+{
+  "type": "way",
+  "id": 427818212,
+  "center": {
+    "lat": 34.0526398,
+    "lon": -118.2862188
+  },
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "2585",
+    "addr:postcode": "90006",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "amenity": "restaurant",
+    "building": "retail",
+    "cuisine": "korean",
+    "ele": "82.9",
+    "height": "12.2",
+    "lacounty:ain": "5076005015",
+    "lacounty:bld_id": "474944841659",
+    "name": "TGI Korean BBQ",
+    "phone": "+1-213-375-7066",
+    "start_date": "1947"
+  }
+},
+{
+  "type": "way",
+  "id": 428543991,
+  "center": {
+    "lat": 34.0536607,
+    "lon": -118.3196559
+  },
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "3901",
+    "addr:postcode": "90019",
+    "addr:state": "CA",
+    "addr:street": "West Olympic Boulevard",
+    "amenity": "restaurant",
+    "building": "retail",
+    "check_date": "2026-06-13",
+    "contact:yelp": "https://www.yelp.com/biz/feng-mao-lamb-kebab-olympic-los-angeles-3",
+    "cuisine": "chinese;korean",
+    "ele": "55.4",
+    "height": "5.1",
+    "lacounty:ain": "5092016024",
+    "lacounty:bld_id": "464844842061",
+    "name": "Feng Mao",
+    "opening_hours": "Mo-Su 11:30-23:30",
+    "phone": "+1-323-935-1099",
+    "start_date": "1966"
+  }
+},
+{
+  "type": "way",
+  "id": 429680308,
+  "center": {
+    "lat": 34.2213433,
+    "lon": -118.5356558
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "korean",
+    "ele": "240.3",
+    "height": "4.9",
+    "lacounty:ain": "2786022001",
+    "lacounty:bld_id": "399748903367",
+    "start_date": "1963"
+  }
+},
+{
+  "type": "way",
+  "id": 430541453,
+  "center": {
+    "lat": 34.2466309,
+    "lon": -118.5364809
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "commercial",
+    "building:units": "21",
+    "cuisine": "korean",
+    "ele": "278.3",
+    "height": "5.2",
+    "lacounty:ain": "2763002029",
+    "lacounty:bld_id": "399545912569",
+    "name": "Hanoo Kalbi",
+    "start_date": "1979"
+  }
+},
+{
+  "type": "way",
+  "id": 431877737,
+  "center": {
+    "lat": 34.2550683,
+    "lon": -118.5373812
+  },
+  "tags": {
+    "addr:city": "Northridge",
+    "addr:housenumber": "10151",
+    "addr:postcode": "91324",
+    "addr:state": "CA",
+    "addr:street": "Reseda Boulevard",
+    "amenity": "restaurant",
+    "branch": "House",
+    "brand": "Gen Korean BBQ",
+    "brand:wikidata": "Q124294849",
+    "building": "retail",
+    "cuisine": "korean;barbecue",
+    "ele": "298.6",
+    "height": "7.6",
+    "lacounty:ain": "2729011007",
+    "lacounty:bld_id": "399287915653",
+    "layer": "-1",
+    "name": "Gen Korean BBQ"
+  }
+},
+{
+  "type": "way",
+  "id": 432357735,
+  "center": {
+    "lat": 34.2387616,
+    "lon": -118.2630577
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "ele": "548.5",
+    "lacounty:ain": "5603006031",
+    "lacounty:bld_id": "GLEN59091",
+    "name": "Miso Korean BBQ",
+    "start_date": "1956"
+  }
+},
+{
+  "type": "way",
+  "id": 442269722,
+  "center": {
+    "lat": 33.8772709,
+    "lon": -118.3088149
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "retail",
+    "building:levels": "1",
+    "cuisine": "korean",
+    "ele": "15.5",
+    "height": "3.1",
+    "lacounty:ain": "6106007013",
+    "lacounty:bld_id": "467948777867",
+    "name": "Shilla",
+    "panoramax": "7db2e883-fee3-4b79-b21f-d965a8fc601c",
+    "roof:levels": "0",
+    "start_date": "1961"
+  }
+},
+{
+  "type": "way",
+  "id": 442301642,
+  "center": {
+    "lat": 33.8053496,
+    "lon": -118.3284506
+  },
+  "tags": {
+    "addr:housenumber": "24301",
+    "addr:street": "Crenshaw Boulevard",
+    "amenity": "restaurant",
+    "branch": "House",
+    "brand": "Gen Korean BBQ",
+    "brand:wikidata": "Q124294849",
+    "building": "commercial",
+    "building:levels": "1",
+    "cuisine": "korean;barbecue",
+    "ele": "32.4",
+    "height": "7.5",
+    "lacounty:ain": "7377012015",
+    "lacounty:bld_id": "461859751742",
+    "name": "Gen Korean BBQ",
+    "start_date": "1995"
+  }
+},
+{
+  "type": "way",
+  "id": 448761681,
+  "center": {
+    "lat": 33.9301196,
+    "lon": -118.2160372
+  },
+  "tags": {
+    "addr:city": "Lynwood",
+    "addr:postcode": "90262",
+    "addr:state": "CA",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "korean",
+    "name": "Ten-Raku All You Can Eat"
+  }
+},
+{
+  "type": "way",
+  "id": 449894296,
+  "center": {
+    "lat": 33.8581465,
+    "lon": -118.0817613
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "commercial",
+    "check_date": "2025-12-21",
+    "cuisine": "korean",
+    "ele": "20.9",
+    "height": "5.4",
+    "lacounty:ain": "7054001056",
+    "lacounty:bld_id": "536831770766",
+    "name": "Sam Woo BBQ and Seafood",
+    "start_date": "1978"
+  }
+},
+{
+  "type": "way",
+  "id": 450433889,
+  "center": {
+    "lat": 33.8739560,
+    "lon": -118.0826974
+  },
+  "tags": {
+    "addr:housenumber": "17303",
+    "addr:street": "Pioneer Boulevard",
+    "amenity": "fast_food",
+    "building": "retail",
+    "building:levels": "1",
+    "cuisine": "korean",
+    "drive_through": "no",
+    "ele": "21.9",
+    "height": "3.6",
+    "lacounty:ain": "7035020079",
+    "lacounty:bld_id": "536560776520",
+    "name": "Chil-Po K-Food",
+    "panoramax": "f0067caf-d5cf-48e7-b6d8-4ee2c9728023",
+    "roof:levels": "0",
+    "start_date": "1949"
+  }
+},
+{
+  "type": "way",
+  "id": 468520916,
+  "center": {
+    "lat": 33.8599518,
+    "lon": -118.0383587
+  },
+  "tags": {
+    "addr:city": "La Palma",
+    "addr:housenumber": "6901",
+    "addr:postcode": "90623",
+    "addr:state": "CA",
+    "addr:street": "Walker Street",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "korean;barbecue;korean_bbq;asian",
+    "name": "Mr. Lee's Barbeque House",
+    "opening_hours": "Fr 11:30-22:30; Sa,Su 11:00-22:30; Mo-Th 11:30-22:30",
+    "phone": "+1-562-809-1339",
+    "website": "https://mrleeskbbq.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 470359940,
+  "center": {
+    "lat": 34.1009979,
+    "lon": -117.7702742
+  },
+  "tags": {
+    "addr:city": "La Verne",
+    "addr:housenumber": "2325",
+    "addr:postcode": "91750",
+    "addr:state": "CA",
+    "addr:street": "D Street",
+    "amenity": "restaurant",
+    "building": "retail",
+    "cuisine": "asian;korean",
+    "ele": "326.4",
+    "height": "5.5",
+    "lacounty:ain": "8377011025",
+    "lacounty:bld_id": "631182859229;631217859218",
+    "name": "Spooner's",
+    "opening_hours": "Su off; Mo-Th 11:00-15:00,16:30-21:00; Fr-Sa 11:00-21:00",
+    "start_date": "1920",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 471067520,
+  "center": {
+    "lat": 33.9947580,
+    "lon": -117.8897142
+  },
+  "tags": {
+    "addr:housenumber": "18902",
+    "addr:street": "Gale Avenue",
+    "amenity": "restaurant",
+    "building": "yes",
+    "building:units": "4",
+    "check_date": "2024-11-24",
+    "cuisine": "korean",
+    "ele": "145.2",
+    "height": "6.8",
+    "lacounty:ain": "8264021014",
+    "lacounty:bld_id": "595098820483",
+    "name": "Sun Nong Dan",
+    "phone": "+1 626-581-2233",
+    "start_date": "1984"
+  }
+},
+{
+  "type": "way",
+  "id": 742378172,
+  "center": {
+    "lat": 33.9983188,
+    "lon": -117.7195998
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "korean;barbecue;buffet",
+    "name": "Wang Cho"
+  }
+},
+{
+  "type": "way",
+  "id": 1016906001,
+  "center": {
+    "lat": 33.8586335,
+    "lon": -118.0079277
+  },
+  "tags": {
+    "addr:city": "Buena Park",
+    "addr:housenumber": "7152",
+    "addr:postcode": "90621",
+    "addr:state": "CA",
+    "addr:street": "Orangethorpe Avenue",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "korean",
+    "height": "3.35",
+    "name": "Han Yang Restaurant",
+    "source": "esri/Orange_County_CA_Buildings_v2",
+    "website": "https://www.hanyangusa.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 1110373310,
+  "center": {
+    "lat": 33.8726642,
+    "lon": -117.8900767
+  },
+  "tags": {
+    "addr:city": "Fullerton",
+    "addr:housenumber": "305",
+    "addr:postcode": "92831",
+    "addr:state": "CA",
+    "addr:street": "North State College Boulevard",
+    "amenity": "restaurant",
+    "building": "retail",
+    "contact:facebook": "mrbbqfullerton",
+    "contact:instagram": "mrbbq_fullerton",
+    "cuisine": "korean;barbecue",
+    "drink:beer": "yes",
+    "drink:soju": "yes",
+    "height": "4.3",
+    "indoor_seating": "yes",
+    "name": "Mr. BBQ",
+    "opening_hours": "Mo-Th,Su 11:00-21:45; Fr,Sa 11:00-22:45",
+    "opening_hours:url": "https://www.mrbbqfullerton.com/",
+    "outdoor_seating": "no",
+    "phone": "+1 714 441 0000",
+    "source": "esri/Orange_County_CA_Buildings_v3",
+    "website": "https://www.mrbbqfullerton.com/",
+    "website:menu": "https://www.mrbbqfullerton.com/menu"
+  }
+},
+{
+  "type": "way",
+  "id": 1176851978,
+  "center": {
+    "lat": 34.2348223,
+    "lon": -118.5356570
+  },
+  "tags": {
+    "addr:city": "Northridge",
+    "addr:housenumber": "9020",
+    "addr:postcode": "91324",
+    "addr:state": "CA",
+    "addr:street": "Reseda Boulevard",
+    "amenity": "restaurant",
+    "cuisine": "korean;chicken",
+    "indoor": "room",
+    "name": "Holdaak"
+  }
+},
+{
+  "type": "way",
+  "id": 1267068014,
+  "center": {
+    "lat": 34.0693751,
+    "lon": -118.2926198
+  },
+  "tags": {
+    "addr:housenumber": "3252",
+    "addr:postcode": "90020",
+    "addr:state": "CA",
+    "addr:street": "West 3rd Street",
+    "addr:unit": "6",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "천하만두 Dumpling House",
+    "name:en": "Dumpling House",
+    "name:ko": "천하만두"
+  }
+},
+{
+  "type": "way",
+  "id": 1268124669,
+  "center": {
+    "lat": 34.0687988,
+    "lon": -118.3070331
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Jun Won Dak"
+  }
+},
+{
+  "type": "way",
+  "id": 1357085448,
+  "center": {
+    "lat": 34.3103351,
+    "lon": -118.4279911
+  },
+  "tags": {
+    "addr:city": "Sylmar",
+    "addr:housenumber": "13191",
+    "addr:postcode": "91342",
+    "addr:state": "CA",
+    "addr:street": "Gladstone Avenue",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "indoor": "room",
+    "level": "0",
+    "name": "Dome Pochana"
+  }
+},
+{
+  "type": "way",
+  "id": 1512313210,
+  "center": {
+    "lat": 33.9149946,
+    "lon": -117.8882670
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "indoor": "room",
+    "level": "0",
+    "name": "Kalbi Social Club"
+  }
+},
+{
+  "type": "way",
+  "id": 1550117812,
+  "center": {
+    "lat": 34.2866115,
+    "lon": -118.5013924
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "indoor": "room",
+    "level": "0",
+    "name": "Jug Jug Sports Bar & Grill",
+    "name:ko": "쪼끼쪼끼"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.DS_Store
+pipeline/kor_candidates.json
+pipeline/verified.json
